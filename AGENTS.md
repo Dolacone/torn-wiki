@@ -66,14 +66,10 @@ Triggered on demand to health-check the wiki.
 
 ## Standards
 
-### Terminology
-- Always refer to [terminology.md](terminology.md) for canonical game terms.
+### Terminology and Number Formatting
+- See [terminology.md](terminology.md) for canonical game terms and number unit definitions (k/m/b).
 - Keep specific game terms in English (e.g., Energy, Nerve, Battlestats, Merits, Cans, SE).
-
-### Number Formatting
-- Use English count abbreviations exclusively: k (1e3), m (1e6), b (1e9).
 - Do not use Chinese units (億, 萬, 千).
-- Conversion reference: 1b = 10 億, 100m = 1 億, 10k = 1 萬.
 
 ### Markdown Formatting
 - Do not use bold (**) or italics (* or _).
