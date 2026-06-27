@@ -1,34 +1,94 @@
-# Torn Project AI Agent Guide (AGENTS.md)
+# Torn Wiki — Agent Schema (AGENTS.md)
 
-This document serves as the Project Memory, defining constraints and standards for all AI agents processing notes in this directory.
+This file is the Schema layer of this llm-wiki. It defines structure, conventions, and workflows for all AI agents operating in this repository.
 
-## Core Instructions
+## Architecture
 
-### 1. Terminology Standards
-- Always refer to [terminology.md](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/terminology.md).
-- Keep specific game terms in English (e.g., Energy, Nerve, Battlestats, Merits, Cans, SE). Do not translate these.
+This wiki uses a three-layer structure:
 
-### 2. Number Formatting
-- Use English count abbreviations exclusively:
-  - k = kilo (1e3)
-  - m = million (1e6)
-  - b = billion (1e9)
+- sources/: Raw, immutable source material (forum posts, guides, Discord excerpts). Never edited after ingestion.
+- wiki pages: LLM-maintained .md files organized by topic directory. These are the living knowledge base.
+- AGENTS.md: This file. Governs all agent behavior and wiki conventions.
+
+## Workflows
+
+### Ingest
+Triggered when new source material arrives.
+
+1. Save raw source to `sources/` with a descriptive filename (e.g. `sources/2026-06-27-forum-battlestats-ratios.md`).
+2. Read and discuss key takeaways.
+3. Write or update relevant wiki pages. One source typically touches multiple pages.
+4. Add or update `[[wikilink]]` cross-references affected by the change.
+5. Append an entry to `log.md`: `## [YYYY-MM-DD] ingest | Source Title`
+6. Update `index.md` if new pages were created.
+
+### Query
+Triggered when the user asks a question about game content.
+
+1. Search `index.md` to identify relevant pages.
+2. Read those pages and synthesize an answer with inline citations (`[[page]]`).
+3. If the answer reveals a gap, propose creating a new wiki page.
+
+### Lint
+Triggered on demand to health-check the wiki.
+
+1. Scan for contradictions between pages.
+2. Find stale claims (content marked with a date that may be outdated).
+3. Find orphaned pages (not referenced by any `[[wikilink]]`).
+4. Find missing cross-references (page A mentions concept B but does not link `[[B]]`).
+5. Report gaps and propose follow-up Ingest or edit tasks.
+
+## File Conventions
+
+### index.md
+- Lists all wiki pages with one-line summaries, organized by directory.
+- Format per entry: `- [[filename]] — one-line summary`
+- Updated during Ingest when new pages are created.
+
+### log.md
+- Append-only chronological record of all Ingest operations.
+- Entry format: `## [YYYY-MM-DD] ingest | Source Title`
+- Body: 2-5 bullet points summarizing what changed.
+
+### sources/
+- Filenames: `YYYY-MM-DD-slug.md`
+- Content: verbatim or lightly cleaned original text, with a header block:
+  ```
+  source: <original URL or origin description>
+  date: YYYY-MM-DD
+  ```
+- Never edited after the initial save.
+
+### Wikilinks
+- Use `[[filename]]` (without directory prefix) to cross-reference pages.
+- If the target filename is ambiguous, use `[[directory/filename]]`.
+- Wikilinks appear inline in prose, not as standalone lists.
+
+## Standards
+
+### Terminology
+- Always refer to [terminology.md](terminology.md) for canonical game terms.
+- Keep specific game terms in English (e.g., Energy, Nerve, Battlestats, Merits, Cans, SE).
+
+### Number Formatting
+- Use English count abbreviations exclusively: k (1e3), m (1e6), b (1e9).
 - Do not use Chinese units (億, 萬, 千).
 - Conversion reference: 1b = 10 億, 100m = 1 億, 10k = 1 萬.
 
-### 3. Markdown Formatting Constraints
-- Strict Prohibition: Do not use bold (**) or italics (* or _).
-- Use Headers, Lists, Tables, and Code blocks for structure.
+### Markdown Formatting
+- Do not use bold (**) or italics (* or _).
+- Use headers, lists, tables, and code blocks for structure.
 
-### 4. Language and Style
-- Descriptive Text: Default to Traditional Chinese (繁體中文).
-- Communication Style: Keep it minimal and direct. Use bullet points instead of long paragraphs.
-- Follow the [mode-notes] workflow.
+### Language and Style
+- Descriptive text: Traditional Chinese (繁體中文).
+- Game terms and technical identifiers: English.
+- Keep it minimal and direct. Prefer bullet points over long paragraphs.
 
-### 5. Other Standards
-- Date Format: Use `YYYY/MM/DD`.
-- File Updates: Perform surgical edits only. Do not refactor unrelated code.
-- Source Tracking: Retain original forum links at the bottom of notes.
+### Other
+- Date format: `YYYY-MM-DD`.
+- Edits are surgical. Do not refactor unrelated content.
+- Retain original source URLs at the bottom of wiki pages under a `## Sources` section.
 
 ## Revision History
-- 2026/04/18: Initialized project instructions, integrated terminology and numeric format standards.
+- 2026-06-27: Migrated to llm-wiki schema. Added three-layer architecture, Ingest/Query/Lint workflows, index/log/sources conventions, wikilink standard.
+- 2026-04-18: Initialized project instructions, integrated terminology and numeric format standards.
