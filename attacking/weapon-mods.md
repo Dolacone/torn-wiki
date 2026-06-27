@@ -39,11 +39,11 @@
 ## 戰術與配置建議 (Tactical & Configuration Advice)
 
 ### 模組核心價值 (Core Value of Modifications)
-- 效能轉換：一個高品質的瞄準鏡 (Sights) 提供的 Accuracy 增益，等同於在健身房花費數萬 Energy 訓練 Speed。
+- 效能轉換：一個高品質的瞄準鏡 (Sights) 提供的 Accuracy 增益，等同於在健身房花費數萬 Energy 訓練 Speed（訓練效率見 [[battlestats/training-strategy]]）。
 - 裝備原則：所有常用武器都應該裝滿模組。
 
 ### 建議配置方案 (Recommended Configurations)
-- 主武器 (Main Rifle) 最強配置：Laser + Recoil Pad + Special Ammo。
+- 主武器 (Main Rifle) 最強配置：Laser + Recoil Pad + Special Ammo（彈藥選擇見 [[attacking/special-ammo]]）。
 - 副武器：視用途而定。若為平衡型，同樣建議 Accuracy 優先。
 
 ## 使用注意事項 (Usage Considerations)

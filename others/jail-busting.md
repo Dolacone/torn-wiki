@@ -14,16 +14,16 @@
 
 ## 劫獄加成資源匯整 (Busting Perks & Resources)
 
-- 教育 (Education)：
+- 教育 (Education)：詳見 [[education/priorities]]
     - LAW2920 / LAW2970：分別提升 5% 與 10% 的劫獄技能。
     - LAW3102：劫獄難度降低 50%。
-- 公司 (Law Firm)：
+- 公司 (Law Firm)：詳見 [[companies/overview]]
     - 5星 (Closing Argument)：更容易一次劫出多人。
     - 10星 (Educated Decision)：可在嘗試前直接查看成功機率。
-- 幫派 (Faction)：
+- 幫派 (Faction)：詳見 [[factions/overview]]
     - Bust Skill：最高提升 50% 成功率。
     - Bust Nerve：將每次劫獄消耗降低至 2N (原為 5N)。
-- 書籍 (Book)：
+- 書籍 (Book)：詳見 [[items/books-overview]]
     - "Shawshank Sure Ain’t For me!"：31 天內大幅提升劫獄與越獄能力。建議在此期間衝刺 Merits。
 
 ## 劫獄失敗懲罰機制 (Busting Penalty Mechanism)
@@ -42,7 +42,7 @@
 - 頻率管理：在懲罰剛開始累積時，一天可嘗試數十次，但隨著成功率下降，應拉長操作間隔。
 
 ### 極化收益考量 (Best Income Considerations)
-- 注意：劫獄本身不提供金錢收益，其最高價值在於 Merits。
+- 注意：劫獄本身不提供金錢收益，其最高價值在於 Merits。詳見 [[merits/priorities]]
 - 終極目標：達成 10,000 次劫獄以獲得最終獎勵。
 
 ## 越獄自我救贖機制 (Self-Busting Mechanics)

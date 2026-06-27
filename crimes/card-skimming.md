@@ -1,6 +1,6 @@
 # 信用卡側錄犯罪策略指南 (Card Skimming Strategy)
 
-Card Skimming 是一項結合被動數據收集與主動回收的犯罪，屬於詐騙 (Fraud) 類別。
+Card Skimming 是一項結合被動數據收集與主動回收的犯罪，屬於詐騙 (Fraud) 類別。本犯罪屬於 [[crimes/crimes-2.0-overview|Crimes 2.0]] 系統的一部分。
 
 - 完成所需 Nerve：2500 (若以最高 Nerve 效率進行，需耗時數月)
 - 增強器 (Enhancer)：Duct Tape
@@ -16,7 +16,7 @@ Card Skimming 是一項結合被動數據收集與主動回收的犯罪，屬於
 - 必備硬體：Computer 或 Laptop (販售階段使用)。
 - 增強器 (Enhancer)：Duct Tape。
     - 效果：提升 5% CS/CE 獲得。
-    - 取得途徑：商店偷竊 Bits 'N' Bobs 唯一發現。
+    - 取得途徑：[[crimes/shoplifting|商店偷竊]] Bits 'N' Bobs 唯一發現。
 
 ## 核心機制與地點效率評估 (Core Mechanics & Location Efficiency)
 

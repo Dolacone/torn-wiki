@@ -1,6 +1,6 @@
 # 扒竊犯罪策略指南 (Pickpocketing Strategy)
 
-Pickpocketing 是一項強調即時判斷與目標篩選的犯罪，屬於盜竊 (Theft) 類別。
+Pickpocketing 是一項強調即時判斷與目標篩選的犯罪，屬於盜竊 (Theft) 類別。本犯罪屬於 [[crimes/crimes-2.0-overview|Crimes 2.0]] 系統的一部分。
 
 - 完成所需 Nerve：9400 (約 24 天)
 - 增強器 (Enhancer)：Cut-Throat Razor
@@ -12,7 +12,7 @@ Pickpocketing 是一項強調即時判斷與目標篩選的犯罪，屬於盜竊
 - 核心消耗：消耗 Nerve 進行單次扒竊。
 - 增強器 (Enhancer)：Cut-Throat Razor。
     - 效果：提升 5% CS/CE，解鎖特定 Unique 與高價值產出（部分 Unique 必須持有此道具才能取得）。
-    - 取得途徑：商店偷竊 Bits 'n' Bobs、入室盜竊 Barbershop 或扒竊 Thug。
+    - 取得途徑：[[crimes/shoplifting|商店偷竊]] Bits 'n' Bobs、[[crimes/burglary|入室盜竊]] Barbershop 或扒竊 Thug。
 
 ## 核心機制與目標篩選原則 (Core Mechanics & Targeting)
 

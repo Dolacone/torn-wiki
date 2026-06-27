@@ -25,7 +25,7 @@
 | Self Defence In The Workplace | Defense Gym Gains +30% | 配合 Ladies Strip Club 職位使用。 |
 | Speed 3 - Rejected Script | Speed Gym Gains +30% | 配合 Fitness Center 並穿著 Sports Sneakers。 |
 | Limbo Lovers 101 | Dexterity Gym Gains +30% | 配合 Gentlemen's Strip Club 職位使用。 |
-| Ignorance Is Bliss | 快樂值可恢復至上限以上 | 適合 Stats 低於 50m (Uncapped) 的玩家配合 E-jump 使用。 |
+| Ignorance Is Bliss | 快樂值可恢復至上限以上 | 適合 Stats 低於 50m (Uncapped) 的玩家配合 E-jump [[battlestats/happy-jumping]] 使用。 |
 
 ## 頂級戰略神器書籍 (God Tier Strategic Books)
 
@@ -40,7 +40,7 @@
 | 書名 | 效果 | 戰術建議 |
 | --- | --- | --- |
 | Fight Like An Asshole | 戰鬥屬性被動 +25% | 用於大型戰爭、Dog Tags 或越級打怪。 |
-| Stealthy Stealing of Underwear | 保證所有攻擊 100% Stealth | 戰爭期間避免暴露身份，需在設定中開啟 Stealth 選項。 |
+| Stealthy Stealing of Underwear | 保證所有攻擊 100% Stealth | 戰爭期間避免暴露身份，需在設定中開啟 Stealth 選項 [[attacking/attack-settings]]。 |
 | Medical Degree Schmedical | 醫院時間減少 50% | 戰爭或頻繁遭遇髒彈攻擊時非常有用。 |
 | Duke - My Story | Duke 會隨機反擊你的攻擊者 | 用於領土防守，增加對手的進攻難度。 |
 
@@ -48,9 +48,9 @@
 
 | 書名 | 效果 | 戰術建議 |
 | --- | --- | --- |
-| Hamburglar's Guide To Crime | 犯罪技能與 CE 獲取 +25% | 配合 Crimes 2.0 或大量消耗神經值的活動使用。 |
+| Hamburglar's Guide To Crime | 犯罪技能與 CE 獲取 +25% | 配合 Crimes 2.0 [[crimes/crimes-2.0-overview]] 或大量消耗神經值的活動使用。 |
 | Finders Keepers | 大幅提升城市拾取機率 | 建議在意識週 (Awareness Week) 期間使用。 |
-| Mailing Yourself Abroad | 旅遊時間減少 25% | 推薦 7 月狩獵週使用，或用於快速往返獲利。 |
+| Mailing Yourself Abroad | 旅遊時間減少 25% | 推薦 7 月狩獵週使用，或用於快速往返獲利 [[general/traveling]]。 |
 | Smuggling For Beginners | 旅遊載貨量 +10 | 配合 PI 與 Large Suitcase 使用，極大化貿易收益。 |
 
 ## 參考資料 (References)

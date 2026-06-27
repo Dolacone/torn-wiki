@@ -1,6 +1,6 @@
 # 戰鬥機制與護甲分析 (Combat Mechanics & Armor Analysis)
 
-本文件整理了關於屬性對抗公式、門檻、Critical Hit 機率、Body parts 傷害修正以及各類 Armor 性能的詳細數據。
+本文件整理了關於屬性對抗公式、門檻、Critical Hit 機率、Body parts 傷害修正以及各類 Armor 性能的詳細數據。更完整的戰力計算原理見 [[battlestats/combat-formulas]]。
 
 ## 核心對抗公式 (Core Combat Formulas)
 
@@ -70,9 +70,9 @@
 Critical Hit 機率起點為 12%，可透過以下方式提升：
 - Education BIO2410: Anatomy: +3%
 - Merits 投入暴擊率：每級 +0.5% (最高 +5%)
-- 雷射武器模組 (Laser Weapon Mods): +2-5%
+- 雷射武器模組 (Laser Weapon Mods): +2-5%，詳見 [[attacking/weapon-mods]]
 
-投資建議：完成 Education 課程並安裝雷射模組後，投入 10 點 Merits 可讓攻擊期望值提升約 5.562%。相比之下，將 10 點 Merits 投入特定武器精通 (Weapon Mastery) 可提升至少 10% 傷害，效益更高，但缺點是僅限於該單一武器類型。
+投資建議：完成 Education 課程並安裝雷射模組後，投入 10 點 Merits 可讓攻擊期望值提升約 5.562%。相比之下，將 10 點 Merits 投入特定武器精通 (Weapon Mastery) 可提升至少 10% 傷害，效益更高，但缺點是僅限於該單一武器類型。Merits 分配優先級見 [[merits/priorities]]。
 
 ## 護甲數值與覆蓋率比較 (Armor Rating & Coverage Comparison)
 

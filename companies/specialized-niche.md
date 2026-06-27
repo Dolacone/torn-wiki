@@ -6,7 +6,7 @@
 
 ### 美髮沙龍 (Hair Salon)
 - 7星：1 JP 縮短 30 分鐘 Education 時間。
-- 建議：想要快速刷完 Education 課程的首選。
+- 建議：想要快速刷完 [[education/priorities|Education 課程]] 的首選。
 
 ### 健身中心 (Fitness Center)
 - 1 JP 縮短 30 分鐘 Education 時間。
@@ -32,11 +32,11 @@
 
 ### 花店 (Flower Shop) / 郵輪代理 (Cruise Line Agency)
 - 5星：1 JP 降低 Addiction。
-- 建議：長期服用 Xanax 的玩家減少 Rehab 次數的高效益選擇。
+- 建議：長期服用 Xanax 的玩家減少 [[mechanics/addiction-rehab|Rehab]] 次數的高效益選擇。
 
 ## 其他特殊功能列表 (Other Specialized Functions)
 
-- 私人保全公司：獲得 Mission Credits 以購買模組。
+- 私人保全公司：獲得 Mission Credits 以購買 [[attacking/weapon-mods|模組]]。
 - 動物園：提升狩獵技能與獎勵。
 - 房地產經紀：Property 升級折扣。
 - 內衣店：免除 Property 維護與員工成本。

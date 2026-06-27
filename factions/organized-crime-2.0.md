@@ -1,6 +1,6 @@
 # 組織犯罪指南 (Organized Crime 2.0)
 
-本指南整理自官方論壇與玩家研究，介紹 Crimes 2.0 系統下的組織犯罪 (OC) 機制。
+本指南整理自官方論壇與玩家研究，介紹 [[crimes/crimes-2.0-overview]] 系統下的組織犯罪 (OC) 機制。
 
 ## 核心術語表 (Glossary)
 
@@ -28,9 +28,9 @@
 ### 關卡成功率說明 (Checkpoint Pass Rate)
 - CPR 數值越高，該關卡成功機率越高。
 - 由角色需求與玩家能力決定，受以下因素影響：
-  - Battlestats：Strength 與 Defense 影響戰鬥類角色 (如 Muscle/Enforcer)；Dexterity 影響手藝類 (如 Thief/Picklock)；Speed 影響反射類 (如 Sniper/Robber)。Battlestats 增益在 1b 左右達到上限。
+  - Battlestats：Strength 與 Defense 影響戰鬥類角色 (如 Muscle/Enforcer)；Dexterity 影響手藝類 (如 Thief/Picklock)；Speed 影響反射類 (如 Sniper/Robber)。Battlestats 增益在 1b 左右達到上限，詳見 [[battlestats/combat-formulas]]。
   - Workstats：Endurance (END) 影響體能類 (如 Muscle)；Intelligence (INT) 影響智謀類 (如 Negotiator)；Manual (MAN) 效果尚不明確。Workstats 上限理論值為 300k。
-  - Crime Skills (CS)：特定的犯罪技能對應特定角色 (如 Cracking 對應 Hacker)。CS 超過 100 後仍會持續提升 CPR。
+  - Crime Skills (CS)：特定的犯罪技能對應特定角色 (如 [[crimes/cracking]] 對應 Hacker)。CS 超過 100 後仍會持續提升 CPR。
   - CE (Crime Experience)：作為 CPR 計算的加權乘數。
   - 其他技能：Hunting (對應 Assassin)、Racing (對應 Driver/Hijacker)、Reviving (對應 Reviver)。
 - 建議選擇 CPR 為綠色 (75+) 的角色。

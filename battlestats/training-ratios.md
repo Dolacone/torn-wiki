@@ -1,6 +1,6 @@
 # 訓練比例指南 (Training Ratios Analysis)
 
-本指南介紹如何透過特定屬性比例來最大化專項健身房 (Specialized Gyms) 的效益。
+本指南介紹如何透過特定屬性比例來最大化專項健身房 (Specialized Gyms) 的效益。屬性分配的數學基礎見 [[battlestats/combat-formulas]]，長期策略規劃見 [[battlestats/training-strategy]]。
 
 ## 健身房加成基礎 (Gym Gain Basics)
 
@@ -60,7 +60,7 @@
 ## 總結與考量 (Summary & Considerations)
 
 - 戰鬥力 vs 總額：Hank's Ratio 追求最高的屬性總額，但在戰鬥中由於一項屬性極低，面對同等級對手時常處於劣勢。
-- 未來發展：使用 SE (Stat Enhancers) 會隨屬性飆升而迅速導致原本的 25e 專項健身房失效，僅剩該屬性的 50e 健身房可用。
+- 未來發展：使用 SE (Stat Enhancers) 會隨屬性飆升而迅速導致原本的 25e 專項健身房失效，僅剩該屬性的 50e 健身房可用。SE 效益臨界點分析見 [[battlestats/se-cap-analysis]]。
 - 推薦路徑：
   - 如果你是計畫性的數據型玩家且致力於極大化增益：Hank's Ratio。
   - 如果你希望在變強的同時保持穩定的戰鬥表現：Baldr's Ratio。

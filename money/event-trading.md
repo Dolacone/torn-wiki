@@ -4,7 +4,7 @@ Torn 的市場價格受年度活動 (Events) 影響巨大。透過預測需求�
 
 ## 博物館日物資投機機制 (Museum Day Market Speculation)
 
-由於 [博物館日](events/museum-day.md) 提供 10% 的額外 Points 獎勵，市場對 Plushies 與 Flowers 的需求會在活動前夕迎來爆發。
+由於 [[events/museum-day]] 提供 10% 的額外 Points 獎勵，市場對 Plushies 與 Flowers 的需求會在活動前夕迎來爆發。
 
 ### 價格波動規律 (Price Fluctuation Pattern)
 

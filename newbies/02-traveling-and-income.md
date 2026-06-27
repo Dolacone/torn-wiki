@@ -1,7 +1,7 @@
 # 出國賺錢與海外代購 (Traveling and Income)
 
 ## 核心概念：全球貿易
-- 抵達 15 級後解鎖旅行功能 (Traveling)
+- 抵達 15 級後解鎖[[general/traveling|旅行功能 (Traveling)]]
 - 核心策略：在海外購買低價物資，帶回 Torn 城內高價轉售
 
 ## 穩定獲利模式
@@ -16,10 +16,10 @@
 ## 提升效率的方法
 ### 增加載貨量 (Capacity)
 - 大號行李箱 (Large Suitcase)：出發前務必裝備以增加攜帶上限
-- 加入派系 (Faction)：選擇擁有旅行容量加成的派系
+- 加入[[factions/overview|派系 (Faction)]]：選擇擁有旅行容量加成的派系
 
 ### 私人飛機與機場 (Airstrip)
-- 租用私人島嶼 (Private Island, PI)：租用包含 Airstrip 升級的 PI 為性價比最高選擇
+- 租用[[property/private-island|私人島嶼 (Private Island, PI)]]：租用包含 Airstrip 升級的 PI 為性價比最高選擇
 - 聘用飛行員 (Hire a Pilot)：確保 PI 已聘用飛行員以啟用私人飛機模式，縮短飛行時間
 
 ## 出國期間的安全與管理

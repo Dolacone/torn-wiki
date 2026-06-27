@@ -1,6 +1,6 @@
 # 快速通關屬性需求門檻 (Fast-Track Requirements)
 
-本文件整理了進入城市職業時，為達成「最短天數通關」所需的最低原始屬性門檻 (Minimum Start Stats)。
+本文件整理了進入[[jobs/city-careers]]時，為達成「最短天數通關」所需的最低原始屬性門檻 (Minimum Start Stats)。
 
 ## 核心職業門檻要求 (Core Professional Requirements)
 
@@ -64,8 +64,8 @@
 - Manual (Man)：158
 
 ## 通關順序建議 (Completion Strategy Advice)
-- 達成 Principal (Education) 應列為首要目標，因為它能大幅節省後續數年的大學學習時間。
-- 建議在加入玩家開設的公司 (Player-owned Company) 期間累積這些 Work Stats。
+- 達成 Principal (Education) 應列為首要目標，因為它能大幅節省後續數年的[[education/priorities]]學習時間。
+- 建議在加入[[companies/overview]]期間累積這些 Work Stats，詳細路徑參見[[jobs/career-pathway]]。
 
 ## 參考資料 (References)
 
