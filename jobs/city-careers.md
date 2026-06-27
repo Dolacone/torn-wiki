@@ -4,12 +4,12 @@
 
 ## 核心三大必做職業 (Top Priority Careers)
 
-這三個職業提供的是「永久性被動加成」，即位達到最高職位後，即使辭職離開，加成內容依然會伴隨你的帳號。
+這三個職業提供的是「永久性被動加成」，即位達到最高職位後，即使辭職離開，加成內容依然會伴隨你的帳號。（詳見[[jobs/career-pathway]]）
 
 ### 教育職業 (Education)
 - 最高職位：Principal (校長)。
 - 核心加成：Cheat Sheet。
-- 效果：永久減少所有大學課程 10% 的學習時間。配合 55 點 Merits 最高可達成 30% 減免，省下超過 2 年的實時時間。
+- 效果：永久減少所有大學課程 10% 的學習時間。配合 55 點[[merits/priorities]]最高可達成 30% 減免，省下超過 2 年的實時時間。
 
 ### 醫療職業 (Medical)
 - 最高職位：Brain Surgeon (腦外科醫生)。
@@ -19,7 +19,7 @@
 ### 法律職業 (Law)
 - 最高職位：Federal Judge (聯邦法官)。
 - 核心加成：永久提升 10% 的犯罪 (Crime) 成功率。
-- 效果：在累積 Crime Experience 與進展 Crimes 2.0 時提供顯著優勢。
+- 效果：在累積 Crime Experience 與進展[[crimes/crimes-2.0-overview]]時提供顯著優勢。
 
 ---
 

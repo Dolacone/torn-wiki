@@ -1,6 +1,6 @@
 # 快樂值機制細則 (Happy Mechanics)
 
-快樂值 (Happy) 直接決定了你在健身房訓練 (Gym Training) 的屬性收益，特別是在初期 Stats 較低時，影響力極大。
+快樂值 (Happy) 直接決定了你在健身房訓練 (Gym Training) 的屬性收益，特別是在初期 Stats 較低時，影響力極大。詳細訓練效率分析見 [[battlestats/happy-jumping]]。
 
 ## 核心重置時間規律 (Core Reset Intervals)
 
@@ -13,7 +13,7 @@
     - Penthouse：提供 925 Happy。
     - Mansion：提供 1500 Happy。
     - 警語：避開低於 925 Happy 的房產（如 Shack），那會極大拖慢你的成長速度。
-- 15 級目標：租用 Private Island (PI)，提供 3600 或更高的 Happy。
+- 15 級目標：租用 [[property/private-island]]，提供 3600 或更高的 Happy。
 
 ## 快樂值超限機制 (Over-capping Mechanics)
 

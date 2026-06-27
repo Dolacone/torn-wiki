@@ -1,6 +1,6 @@
 # 縱火犯罪策略指南 (Arson Crime Strategy)
 
-縱火是一項高度戰術性的 Crimes 2.0 活動，屬於破壞 (Vandalism) 類別。涉及火場物理、材質組合與每日限量的任務管理。
+縱火是一項高度戰術性的 [[crimes/crimes-2.0-overview|Crimes 2.0]] 活動，屬於破壞 (Vandalism) 類別。涉及火場物理、材質組合與每日限量的任務管理。
 
 ## 術語與基礎定義 (Terminology & Basics)
 
@@ -10,7 +10,7 @@
 - Target：縱火目標，由地點與故事背景定義，影響易燃度與郊區度。
 - Area：火場中的各個區域（火焰圖標表示）。
 - Accelerant：用於助燃的助燃劑。
-- Enhancer (增強器)：Windproof Lighter。取得途徑：Burglarize the Secluded Cabin (Unique)。可提升 5% 的 CE 與 CS 收益。
+- Enhancer (增強器)：Windproof Lighter。取得途徑：[[crimes/burglary|Burglarize]] the Secluded Cabin (Unique)。可提升 5% 的 CE 與 CS 收益。
 
 ## 核心動作與神經值消耗 (Core Actions & Nerve)
 
@@ -101,7 +101,7 @@
 
 ## 推薦從事公司 (Best Recommended Companies)
 
-- **首選：遊樂園 (Amusement Park)**：10星福利提供全類別 10% 經驗與技能加成。由於官方目前未提供對位 Vandalism 的 15% 加成公司，遊樂園是目前的最優解。
+- **首選：遊樂園 (Amusement Park)**：10星福利提供全類別 10% 經驗與技能加成。由於官方目前未提供對位 Vandalism 的 15% 加成公司，遊樂園是目前的最優解。詳見 [[companies/overview|公司系統]]。
 - **備選：肉類倉庫 (Meat Warehouse)**：5星福利可減少 50% 失敗時的 CE 損失，適合在高強度 (Red Intensity) 下冒險操作的玩家。
 
 ## 功勳與勳章成就項 (Merit Medals & Achievements)

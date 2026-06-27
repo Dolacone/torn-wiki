@@ -15,7 +15,7 @@
   - 保護財產
   - 管理毒癮與常用術語
 - [06-factions-and-benefits.md](./06-factions-and-benefits.md)
-  - 加入派系的重要性
+  - 加入[[factions/overview|派系]]的重要性
   - 資源獲取與新手義務
 
 ## 3. 長期成長與戰力

@@ -9,7 +9,7 @@
 - 作用：這筆錢會鎖定在交易中，直到 6 小時過期或你取消。在此期間， muggers 無法搶走這筆錢。
 
 ### 私人島嶼金庫 (PI Vault)
-- 方法：升級 PI 獲得 Vault。
+- 方法：升級 [[property/private-island]] 獲得 Vault。
 - 作用：最安全、最直接的現金儲存處，隨取隨放。但 Vault 建設費用極其高昂。
 
 ### 資產轉換法 (Asset Conversion)
@@ -17,7 +17,7 @@
 - 作用：轉為實物後通常不會被「搶奪」，但可能面臨市場波動风险。
 
 ### 派系金庫儲存 (Faction Vault)
-- 方法：存入所屬幫派的金庫。
+- 方法：存入所屬幫派的金庫（詳見 [[factions/overview]]）。
 - 風險：需信任 Faction 管理層，被踢出或幫派解散時可能損失。
 
 ### 醫院避難法 (Hospital Stay)

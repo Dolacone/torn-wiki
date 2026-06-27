@@ -16,7 +16,7 @@ Needles 是一種 Temporary Weapons，使用後可獲得持續 120 秒 (2 分鐘
 
 - 同種類限制：同時間只能有一種相同類型的 Needle 為 Active。重複使用同種 Needle 只會重置計時器。
 - 異種類疊加：可以同時啟動全部四種不同屬性的 Needles。
-- 作業要求：此操作稱為 Needle Rolling 或 Temporary Boosting，效果極強，但需要在戰鬥與戰鬥之間切換裝備 Needles。
+- 作業要求：此操作稱為 Needle Rolling 或 Temporary Boosting，效果極強，但需要在戰鬥與戰鬥之間切換裝備 Needles。進階操作技術見 [[attacking/temporary-tactics]]。
 - 安全限制：只有在未被其他人 Attacking 的情況下，才能進行 Needles 的切換。
 
 ## 實戰戰鬥策略 (Combat Tactics)
@@ -27,7 +27,7 @@ Needles 是一種 Temporary Weapons，使用後可獲得持續 120 秒 (2 分鐘
 - 起手選擇 (Attacking vs Defense)：
   - 取決於具體情況。Defense 型 Needle 提供生存能力，Attacking 型 Needle 則提供火力以快速結束戰鬥並進入下一個 Needle。
   - 建議：若你切換 Needles 的速度不夠快，請使用對你自身增益最大的 Needle。
-- Loadouts (裝備配置)：強烈建議使用 Loadouts 功能來加快切換速度，省去在物品欄中尋找物品的時間。
+- Loadouts (裝備配置)：強烈建議使用 Loadouts 功能來加快切換速度，省去在物品欄中尋找物品的時間。Loadout 設定方式見 [[attacking/attack-settings]]。
 
 ## 操作循環總結 (Operational Loop Summary)
 

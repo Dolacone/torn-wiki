@@ -3,7 +3,7 @@
 博物館日是 Torn City 的年度盛事，專門獎勵那些完成歷史學位並致力於收集世界各地文物的玩家。
 
 - 活動日期：每年 5 月 18 日。
-- 解鎖門檻：完成 History Studies Bachelor (歷史學學士) 指令課程。
+- 解鎖門檻：完成 History Studies Bachelor (歷史學學士) 指令課程 (見 [[education/priorities]])。
 - 增強效果：活動期間，在博物館兌換物品組合時，獲得的 Points 增加 10%。
 
 ## 博物館兌換機制 (Museum Exchange Mechanics)

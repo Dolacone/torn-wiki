@@ -1,6 +1,6 @@
 # 旅遊與跨國貿易指南 (Traveling & Trading Guide)
 
-達到 15 級後，旅遊 (Traveling) 是賺取日常開銷與進階物資最穩定的方式。
+達到 15 級後（見 [[newbies/01-leveling-to-15]]），旅遊 (Traveling) 是賺取日常開銷與進階物資最穩定的方式。
 
 ## 旅遊收益核心機制 (Core Traveling Income Mechanics)
 
@@ -12,8 +12,8 @@
 承載量決定了單趟的利潤。
 - 大行李箱 (Large Suitcase)：直接購買，+4 容量。
 - 幫派 Excursion 功勳：最高 +10 容量。
-- 私人島嶼 (Private Island)：附帶機場 (Airstrip) 與飛行員可快速旅行並 +10 容量。
-- 公司加成：
+- 私人島嶼 (Private Island)（見 [[property/private-island]]）：附帶機場 (Airstrip) 與飛行員可快速旅行並 +10 容量。
+- 公司加成（見 [[companies/overview]]）：
     - Toy Shop (7星)：+5 Plushies。
     - Flower Shop (7星)：+5 Flowers。
     - Lingerie Store (3星)：+2 總量。

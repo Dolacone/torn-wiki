@@ -1,6 +1,6 @@
 # 塗鴉犯罪策略指南 (Graffiti Strategy)
 
-Graffiti 是一項涉及區域聲望 (Reputation) 經營的犯罪，屬於破壞 (Vandalism) 類別。
+Graffiti 是一項涉及區域聲望 (Reputation) 經營的犯罪，屬於破壞 (Vandalism) 類別。本犯罪屬於 [[crimes/crimes-2.0-overview|Crimes 2.0]] 系統的一部分。
 
 - 完成所需 Nerve：8300 (約 21 天)
 - 增強器 (Enhancer)：Paint Mask
@@ -63,7 +63,7 @@ Graffiti 是一項涉及區域聲望 (Reputation) 經營的犯罪，屬於破壞
 - 注意：由於多數玩家在 1.0 並未累積過 Vandalism 類別的勳章，這項犯罪是獲取該類別大量勳章的最佳途徑。
 
 ### 犯罪功能性應用策略 (Functional Application Strategy)
-- 清除 Debuff：當你在其他高難度犯罪 (如 Cracking 或 Burglary) 遭遇紅色嚴重失敗後，可以使用 Graffiti (消耗低且成功率高) 來快速累積 20 次成功，以消除嚴重的失敗 Debuff。
+- 清除 Debuff：當你在其他高難度犯罪 (如 [[crimes/cracking|Cracking]] 或 [[crimes/burglary|Burglary]]) 遭遇紅色嚴重失敗後，可以使用 Graffiti (消耗低且成功率高) 來快速累積 20 次成功，以消除嚴重的失敗 Debuff。
 - 聲望維持：在 CS100 後，可以專注於維持高階區域 (Financial/City Center) 的 500 聲望以獲取穩定收益。
 
 ## 推薦從事公司 (Best Recommended Companies)

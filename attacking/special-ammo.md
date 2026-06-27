@@ -1,6 +1,6 @@
 # 特殊彈藥指南 (Special Ammo Strategy)
 
-特殊彈藥是高階戰鬥中不可或缺的增益，通常透過公司 Job Points (如 Gun Shop) 獲得。
+特殊彈藥是高階戰鬥中不可或缺的增益，通常透過公司 Job Points (如 Gun Shop) 獲得。戰鬥導向公司選擇見 [[companies/combat-warring]]。
 
 ## 彈藥性能評級 (Ammunition Rating)
 
@@ -14,7 +14,7 @@
 
 ### 第二梯隊：穿甲彈 (Piercing)
 - 加成：減少目標 50% 的 Armor 防護。
-- 評價：專門對付穿著高級護甲 (EOD/Marauder) 或 Defense Whore 的利器。
+- 評價：專門對付穿著高級護甲 (EOD/Marauder，護甲比較見 [[attacking/combat-mechanics]]) 或 Defense Whore 的利器。
 
 ## 彈藥選擇陷阱 (Ammunition Traps)
 - 評價：垃圾。雖然有 Damage 加成，但會被對方的 Armor 嚴重削弱，實際效果不如 Incendiary。

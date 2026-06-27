@@ -2,7 +2,7 @@
 
 ## 核心優先級 (High Priority - 遊戲初期建議點滿)
 - 教育時長 (Education Length)
-  - 完成全系列教育需耗時超過 6 年。
+  - 完成全系列[[education/priorities]]需耗時超過 6 年。
   - 愈早點滿，長期省下的時間效益愈高。
 - 銀行利息 (Bank Interest)
   - 被動收入的核心來源。
@@ -10,12 +10,12 @@
 
 ## 戰鬥發展 (Attacking - 建議先至 7 級，點數充裕後再補至 10 級)
 - 生命值 (Life Points)
-  - 50 級後的戰鬥核心屬性。
+  - 50 級後的戰鬥核心屬性 ([[attacking/combat-mechanics]])。
   - 直接提升生存能力與容錯率。
 - 暴擊率 (Critical Hit Rate)
   - 穩定提升輸出傷害的最快路徑。
 - 基礎屬性 (Stats: Sharpness, Brawn, Protection, Evasion)
-  - 根據個人核心修練的屬性進行分配。
+  - 根據個人核心修練的屬性進行分配 ([[battlestats/training-ratios]])。
 - 武器精通 (Weapon Mastery & Temporary Mastery)
   - 挑選 1 到 2 種主力武器種類優先點滿。
 
@@ -23,8 +23,8 @@
 - 勇氣條 (Nerve Bar)
   - 增加上限以利睡眠期間儲存神經值，避免溢出浪費。
 - 犯罪進度 (Crime Progression)
-  - 加速犯罪技能成長。
-  - 協助組織犯罪 (OC) 進度。
+  - 加速犯罪技能成長 ([[crimes/crimes-2.0-overview]])。
+  - 協助組織犯罪 (OC) 進度 ([[factions/organized-crime-2.0]])。
 
 ## 特定工具性 (Utility - 依特定需求開啟)
 - 住院時長 (Hospitalizing)
@@ -36,7 +36,7 @@
 - 員工效率 (Employee Effectiveness)
   - 對個人成長與戰力無直接幫助。
 - 成癮緩解 (Addiction Mitigation)
-  - 常見誤區：這並不能減少藥物產生的毒癮量，僅能減輕負面影響。
+  - 常見誤區：這並不能減少藥物產生的毒癮量，僅能減輕負面影響 ([[mechanics/addiction-rehab]])。
 - 隱匿 (Stealth)
   - 在多數戰鬥場景中並不重要。
 - 覺察 (Awareness)

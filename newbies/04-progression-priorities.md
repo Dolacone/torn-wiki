@@ -7,7 +7,7 @@
   - 免費訓練 (Free Trains)：快速提升工作屬性 (Working Stats)
   - Edvd 獲取：利用工作點數換取 Edvd 賣出換取現金
 
-### 進階階段：跳轉城市職業 (City Jobs)
+### 進階階段：跳轉[[jobs/city-careers|城市職業 (City Jobs)]]
 - 工作屬性達標後，依序完成以下城市職業獲得永久加成：
 
 | 職業 | 主要加成 | 門檻要求 |
@@ -18,7 +18,7 @@
 - 建議路徑 (Education -> Law)：
   - 起始屬性建議：Int (7,850), End (13,811), Man (5,037)
 
-## 教育課程 (Education) 優先順序
+## [[education/priorities|教育課程 (Education) 優先順序]]
 - 生物學 (Biology)：解鎖血液裝備 (Blood Bags)
 - 運動科學 (Sports Science)：提升健身房屬性獲得率
 - 電腦科學 (CMT2560)：製作 Firewalk 病毒獲利
@@ -30,7 +30,7 @@
 - 商業 (Business)：經營公司之準備
 - 戰鬥路徑：BIO2370 (靜脈注射) -> 戰鬥訓練 (Combat Training) -> 數學 (Mathematics)
 
-## 功勳點 (Merits) 分配順序
+## [[merits/priorities|功勳點 (Merits) 分配順序]]
 - 教育長度 (Education Length) 10/10：優先省下時間
 - 神經值上限 (Nerve Bar)：點滿以在睡覺時儲存更多神經值
 - 銀行利息 (Bank Interest) 10/10：存款週期建議不超過 1 個月

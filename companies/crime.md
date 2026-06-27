@@ -4,36 +4,36 @@
 
 ## 犯罪進度加成對照表 (Progression Bonus Reference)
 
-在 Crimes 2.0 中，部分公司提供被動的 **+15% Crime Experience (CE) 與 Crime Skill (CS)** 加成。這是練技能（衝刺 CS100）的最快路徑。
+在 [[crimes/crimes-2.0-overview|Crimes 2.0]] 中，部分公司提供被動的 **+15% Crime Experience (CE) 與 Crime Skill (CS)** 加成。這是練技能（衝刺 CS100）的最快路徑。
 
 ### 盜竊 (Theft)
-- **包含犯罪**：[搜尋現金 (Search for Cash)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/search-for-cash.md)、[商店偷竊 (Shoplifting)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/shoplifting.md)、[扒竊 (Pickpocketing)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/pickpocketing.md)、[入室盜竊 (Burglary)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/burglary.md)。
+- **包含犯罪**：[[crimes/search-for-cash|搜尋現金 (Search for Cash)]]、[[crimes/shoplifting|商店偷竊 (Shoplifting)]]、[[crimes/pickpocketing|扒竊 (Pickpocketing)]]、[[crimes/burglary|入室盜竊 (Burglary)]]。
 - **官方推薦**：
   - **家具店 (Furniture Store)**：**5星** 被動加成。全遊戲最低星級門檻。
 
 ### 詐騙 (Fraud)
-- **包含犯罪**：[信用卡側錄 (Card Skimming)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/card-skimming.md)、[推銷 (Hustling)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/hustling.md)、[詐騙 (Scamming)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/scamming.md)。
+- **包含犯罪**：[[crimes/card-skimming|信用卡側錄 (Card Skimming)]]、[[crimes/hustling|推銷 (Hustling)]]、[[crimes/scamming|詐騙 (Scamming)]]。
 - **官方推薦**：
   - **汽車經銷商 (Car Dealership)**：**7星** 被動加成。
 
 ### 仿冒 (Counterfeiting)
-- **包含犯罪**：[盜版燒錄 (Bootlegging)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/bootlegging.md)、[文書偽造 (Forgery)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/forgery.md)。
+- **包含犯罪**：[[crimes/bootlegging|盜版燒錄 (Bootlegging)]]、[[crimes/forgery|文書偽造 (Forgery)]]。
 - **官方推薦**：
   - **劇院 (Theater)**：**7星** 被動加成。
 
 ### 非法服務 (Illicit Services)
-- **包含犯罪**：[棄置處理 (Disposal)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/disposal.md)。
+- **包含犯罪**：[[crimes/disposal|棄置處理 (Disposal)]]。
 - **官方推薦**：
   - **夜總會 (Nightclub)**：**3星** 被動加成。極易進入。
 - **備註 (1.0 遺產)**：律師事務所 (3*) 與肉類倉庫 (7*) 的 25% 加成主要針對 1.0 的成功率，在 2.0 中建議優先選擇夜總會以加速進度。
 
 ### 網路犯罪 (Cybercrime)
-- **包含犯罪**：[電腦破解 (Cracking)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/cracking.md)。
+- **包含犯罪**：[[crimes/cracking|電腦破解 (Cracking)]]。
 - **官方推薦**：
   - **軟體公司 (Software Corporation)**：**7星** 被動加成。
 
 ### 破壞 (Vandalism)
-- **包含犯罪**：[縱火 (Arson 2.0)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/arson.md)、[塗鴉 (Graffiti)](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/graffiti.md)。
+- **包含犯罪**：[[crimes/arson|縱火 (Arson 2.0)]]、[[crimes/graffiti|塗鴉 (Graffiti)]]。
 - **官方狀態**：目前官方 **未提供** 15% 加成公司。
 - **替代方案**：
   - **遊樂園 (Amusement Park)**：10星提供全類別 10% 進度加成。這是目前破壞類別的最高加成路徑。

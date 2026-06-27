@@ -1,6 +1,6 @@
 # 巧克力跳躍訓練指南 (Choco Jump Guide)
 
-Choco Jump (或稱 Half Choco Jump) 是一種比標準 [Happy Jump](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/battlestats/happy-jumping.md) 更經濟實惠的訓練技術，適合初期資金有限的新手。
+Choco Jump (或稱 Half Choco Jump) 是一種比標準 [[battlestats/happy-jumping]] 更經濟實惠的訓練技術，適合初期資金有限的新手。
 
 ## 核心訓練機制 (Core Training Mechanics)
 
@@ -24,7 +24,7 @@ Choco Jump (或稱 Half Choco Jump) 是一種比標準 [Happy Jump](file:///c:/U
 
 ## 每日雙次跳點技術 (Double Daily Jump Method)
 
-如果你可以精準掌控時間，這個方法能提供接近標準 [Happy Jump](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/battlestats/happy-jumping.md) 兩倍的週收益。
+如果你可以精準掌控時間，這個方法能提供接近標準 Happy Jump 兩倍的週收益。
 
 - 原理：將 Booster Cooldown 控制在 12 小時內。
 - 步驟：
@@ -35,11 +35,11 @@ Choco Jump (或稱 Half Choco Jump) 是一種比標準 [Happy Jump](file:///c:/U
 
 ## 安全性與毒品風險評估 (Safety & Drug Risks)
 
-- 低 Overdose 風險：Choco Jump 每次僅需 1 Xanax 與 1 Ecstasy。相較於標準 HJ (4-5 個 Xanax + 1 Ecstasy)，其過量風險與治療 (Rehab) 成本顯著更低。
+- 低 Overdose 風險：Choco Jump 每次僅需 1 Xanax 與 1 Ecstasy。相較於標準 HJ (4-5 個 Xanax + 1 Ecstasy)，其過量風險與治療 ([[mechanics/addiction-rehab|Rehab]]) 成本顯著更低。
 
 ## 邊際效益與轉換點 (Diminishing Returns & Transition Point)
 
-隨著屬性提升，Choco Jump 的效益會遞減。建議在單項屬性達到 55k 左右時，轉向更高階的 [Happy Jump](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/battlestats/happy-jumping.md) 或純 Energy 訓練。
+隨著屬性提升，Choco Jump 的效益會遞減。建議在單項屬性達到 55k 左右時，轉向更高階的 Happy Jump 或純 Energy 訓練，並參考 [[battlestats/training-strategy]] 制定長期方向。
 
 ## 參考資料 (References)
 

@@ -1,6 +1,6 @@
 # 棄置犯罪策略指南 (Disposal Strategy)
 
-Disposal 是一項每日限額的犯罪，屬於非法服務 (Illicit Services) 類別。特色在於多樣化的道具消耗與每日刷新的任務系統。
+Disposal 是一項每日限額的犯罪，屬於非法服務 (Illicit Services) 類別。特色在於多樣化的道具消耗與每日刷新的任務系統。本犯罪屬於 [[crimes/crimes-2.0-overview|Crimes 2.0]] 系統的一部分。
 
 - 完成所需 Nerve：5100 (約 35 天，因每日任務數量受限)
 - 增強器 (Enhancer)：Latex Gloves
@@ -9,7 +9,7 @@ Disposal 是一項每日限額的犯罪，屬於非法服務 (Illicit Services) 
 ## 道具系統與消耗品清單 (Tools & Consumables List)
 
 ### 增強器 (Enhancer)
-- Latex Gloves：提升 5% CS/CE。由店舖偷竊珠寶店或入室盜竊牙醫診所唯一發現取得。
+- Latex Gloves：提升 5% CS/CE。由 [[crimes/shoplifting|店舖偷竊]]珠寶店或 [[crimes/burglary|入室盜竊]]牙醫診所唯一發現取得。
 
 ### 核心可重複工具 (Core Reusable Tools)
 - Shovel：用於 Bury 方法。
@@ -49,7 +49,7 @@ Disposal 是一項每日限額的犯罪，屬於非法服務 (Illicit Services) 
 - 高 Nerve 優勢：消耗神經值越高的處置選項，其提供的 CS 經驗呈現指數級成長。在安全前提下，務必選擇最高配置。
 - 連鎖維持：由於每日任務有限，強烈建議在累積了 40+ 的犯罪連鎖 (Crime Chain) 後再進行處置，以最大化加成效果。
 - 任務篩選：若神經值負擔較重，可優先處理 Firearm (火器)、Murder weapon (兇器)、Body part (肢體) 與 Body (屍體)，這類任務的技能報酬最為厚實。
-- 組合建議：適合與 [Hustling](file:///c:/Users/Dolacone/Dropbox/_notes/games/torn/crimes/hustling.md) 等能輕易刷出高連鎖的犯罪交替進行。
+- 組合建議：適合與 [[crimes/hustling|Hustling]] 等能輕易刷出高連鎖的犯罪交替進行。
 
 
 ### 最佳收益獲利策略 (Best Income Strategy)

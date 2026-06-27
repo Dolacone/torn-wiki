@@ -1,6 +1,6 @@
 # 私人島嶼規劃與配置 (Private Island - PI)
 
-私人島嶼是 15 級後的標準配置，它是達成財務自由的核心工具。
+私人島嶼是 15 級後的標準配置，它是達成財務自由的核心工具。快樂值機制詳見 [[property/happy-mechanics]]。
 
 ## 核心配置：起降跑道 (Key Configuration: Landing Strip)
 
@@ -11,8 +11,8 @@
 
 ## 初期租用建議策略 (Early Rental Strategy)
 
-- 預算有限時：可以尋找 2550 Happy 左右的低階 PI，只要它帶有 Landing Strip 即可開始旅遊獲利。
-- 高階追求：儘量租用 3600 Happy 以上的 PI 以最大化 Gym Gains。
+- 預算有限時：可以尋找 2550 Happy 左右的低階 PI，只要它帶有 Landing Strip 即可開始[[general/traveling|旅遊獲利]]。
+- 高階追求：儘量租用 3600 Happy 以上的 PI 以最大化 Gym Gains，詳見 [[battlestats/training-strategy]]。
 
 ## 進階載貨量增益 (Advanced Capacity Buffs)
 

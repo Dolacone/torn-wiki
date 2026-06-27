@@ -5,10 +5,10 @@
 - 安全存放管道：
   - 派系銀行 (Faction Bank)：需確認派系規則
   - 點數市場 (Point Market)：現金換成點數 (Points)
-  - 道具存儲：購買容易脫手的物資（如 Xanax）保值
+  - 道具存儲：購買容易脫手的物資（如 Xanax）保值，詳見 [[money/storage-protection]]
 
 ## 毒癮與戒毒 (Addiction & Rehab)
-- 藥物副作用：使用 Xanax 或 Ecstasy 會累積毒癮，降低戰鬥屬性
+- 藥物副作用：使用 Xanax 或 Ecstasy 會累積[[mechanics/addiction-rehab|毒癮]]，降低戰鬥屬性
 - 戒毒時機：屬性削弱顯著時，飛往瑞士 (Switzerland) 進行戒毒 (Rehab)
 - 成本平衡：合理安排飛行時間與預算
 

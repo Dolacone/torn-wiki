@@ -6,7 +6,7 @@
 
 ### 煙霧彈與閃避流 (Smoke + Dexterity Whore)
 - 戰術：投擲煙霧彈 (Smoke Grenade) 減少對方的 Accuracy。
-- 效果：配合自身極高的 Dexterity，讓對方的命中率降至趨近於零。
+- 效果：配合自身極高的 Dexterity，讓對方的命中率降至趨近於零（命中率公式見 [[attacking/combat-mechanics]]）。
 
 ### 閃光彈與防禦流 (Flashbang + Defense Whore)
 - 戰術：投擲閃光彈 (Flashbang) 減少對方的 Speed 與 Strength。
@@ -20,16 +20,16 @@
 
 ### 雙視窗操作 (Stacking)
 - 方法：在兩個瀏覽器標籤頁 (Tabs) 或裝置上同時開啟戰鬥畫面。
-- 作用：一邊進行攻擊，另一邊隨時觀察 Needle 計時器並快速切換。
+- 作用：一邊進行攻擊，另一邊隨時觀察 Needle 計時器並快速切換（Needle 機制見 [[attacking/needles]]）。
 
 ### 釣魚策略 (Baiting)
 - 策略：故意不帶 Needle 進行弱攻擊，騙出對方的防禦性道具或其他資源。
-- 反制：在對方以為你沒招時，突然透過 Loadouts 切換至全副武裝的 Warring 配置。
+- 反制：在對方以為你沒招時，突然透過 Loadouts 切換至全副武裝的 Warring 配置（Loadout 設定見 [[attacking/attack-settings]]）。
 
 ## 道具克制建議 (Counter-Item Suggestions)
 
 - 對付閃加 (Dexterity)：煙霧彈或高 Accuracy 武器 (Enfield/Macana)。
-- 對付防加 (Defense)：Piercing Ammo 或 Epinephrine (+Strength)。
+- 對付防加 (Defense)：Piercing Ammo（見 [[attacking/special-ammo]]）或 Epinephrine (+Strength)。
 
 ## 參考資料 (References)
 

@@ -14,7 +14,7 @@
 - 理由：確保你的防禦反擊絕大部分時間都在使用最強的 Rifles。
 
 ### 彈藥自動設定 (Ammo Settings)
-- 優先使用裝有特殊彈藥 (Special Ammo) 的武器。
+- 優先使用裝有特殊彈藥 (Special Ammo) 的武器。詳見 [[attacking/special-ammo]]。
 - 設定在戰鬥中自動重新裝彈 (Reload)。
 
 ## 戰法細節 (Tactics)
@@ -26,12 +26,12 @@
 
 ### 藥品與增益 (Meds & Buffs)
 - 確保在戰爭期間身上備有足夠的醫療用品。
-- 使用對應的 Needles。
+- 使用對應的 Needles。詳見 [[attacking/needles]]。
 
 ## 裝備配置 (Loadout Configurations)
 
 - 建立至少三套 Loadouts：
-    - Warring (最強武裝 + Needles)。
+    - Warring (最強武裝 + Needles，參考 [[attacking/temporary-tactics]])。
     - Training (最大化 Gym Gains，若公司有提供加成)。
     - Stealth (最大化 Stealth)。
 

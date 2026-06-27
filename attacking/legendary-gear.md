@@ -4,7 +4,7 @@
 
 ## 武器評鑑指標 (Weapon Evaluation Metrics)
 
-在購買任何傳奇武器前，請務必與「裝滿模組的白色 Armalite」進行對比：
+在購買任何傳奇武器前，請務必與「裝滿模組的白色 Armalite」進行對比（模組詳見 [[attacking/weapon-mods]]）：
 - 標準：Armalite ML-60 + Sights + Lights。
 - 結論：如果花費 1b 買的傳奇步槍性能低於白板 Armalite，那就是浪費錢。
 
@@ -26,7 +26,7 @@
 ## 護甲配置建議 (Armor Selection Advice)
 
 ### 入門配置推薦 (Entry-Level Recommendations)
-- Riot Helmet：提供全臉保護（遮擋面部，大幅減少 Critical Hit 傷害），CP 值最高。
+- Riot Helmet：提供全臉保護（遮擋面部，大幅減少 Critical Hit 傷害，護甲數值比較見 [[attacking/combat-mechanics]]），CP 值最高。
 - Dune Body：在中價位中表現優異。
 
 ### 頂級防禦追求 (Top-Tier Gear)

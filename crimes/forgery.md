@@ -1,6 +1,6 @@
 # 文書偽造犯罪策略指南 (Forgery Strategy)
 
-Forgery 是一項長流程的專案型犯罪，屬於仿冒 (Counterfeiting) 類別。其特色在於極其龐雜的物資管理與多步驟的冷卻機制。
+Forgery 是一項長流程的專案型犯罪，屬於仿冒 (Counterfeiting) 類別。其特色在於極其龐雜的物資管理與多步驟的冷卻機制。本犯罪屬於 [[crimes/crimes-2.0-overview|Crimes 2.0]] 系統的一部分。
 
 - 完成所需 Nerve：24000 (約 60 天)
 - 增強器 (Enhancer)：Magnifying Glass
@@ -10,7 +10,7 @@ Forgery 是一項長流程的專案型犯罪，屬於仿冒 (Counterfeiting) 類
 ## 基礎需求與環境配置 (Requirements & Environment)
 
 - 增強器 (Enhancer)：Magnifying Glass。
-    - 效果：提升 5% CS/CE。由店舖偷竊珠寶店唯一發現取得。
+    - 效果：提升 5% CS/CE。由 [[crimes/shoplifting|店舖偷竊]]珠寶店唯一發現取得。
 - 核心道具與鎖定機制：
     - Printer 與 Sand 是偽造的核心工具。在進行「Printing」或「Casting」等步驟時，該道具會被「鎖定 (Locked)」，無法同時用於其他專案。若要並行作業，需擁有多個備用道具。
 
@@ -66,7 +66,7 @@ Forgery 是一項長流程的專案型犯罪，屬於仿冒 (Counterfeiting) 類
 ## 推薦從事公司 (Best Recommended Companies)
 
 - **首選：劇院 (Theater)**：**7星**福利提供被動的 **15% Counterfeiting 經驗與技能加成**。對於 Passport 這種超長流程專案，15% 的經驗增益能顯著縮短達成功勳的時間。
-- **功能選擇：遊樂園 (Amusement Park)**：10星福利 (10% 加成) 適合追求全方位加成、或經常切換至 Bootlegging 刷新材料的玩家。
+- **功能選擇：遊樂園 (Amusement Park)**：10星福利 (10% 加成) 適合追求全方位加成、或經常切換至 [[crimes/bootlegging|Bootlegging]] 刷新材料的玩家。
 
 ## 參考資料 (References)
 

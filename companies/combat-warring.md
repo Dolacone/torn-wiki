@@ -8,7 +8,7 @@
 - 10星：10% 主/副武器 Damage 提升。
 - 7星：額外一個彈夾 (適合 Peppered Merits)。
 - 5星：可查看目標的裝備與彈藥。
-- Meta 價值：後期最重要的 Job Points 消耗處之一，用於兌換 Special Ammo (如 Incendiary)。
+- Meta 價值：後期最重要的 Job Points 消耗處之一，用於兌換 [[attacking/special-ammo|Special Ammo]] (如 Incendiary)。
 
 ### 家具店 (Furniture Store)
 - 10星：100% Fist & Kick Damage。
@@ -42,7 +42,7 @@
 ### 脫衣舞俱樂部 (Strip Clubs)
 - 10星：1/4 機率閃避近戰 (男子)；減少 30% 近戰 Damage (女子)。
 - 5星：50% Tyrosine (Dexterity) 或 Serotonin (Defense) 效果加成。
-- Meta 價值：2021 戰鬥更新後的頂級公司，極大強化了 Needles 的效果與持久戰能力。必定配合 Loadouts 進行操作。
+- Meta 價值：2021 戰鬥更新後的頂級公司，極大強化了 [[attacking/needles|Needles]] 的效果與持久戰能力。必定配合 Loadouts 進行操作。
 
 ## 隱密與戰略功能 (Stealth & Strategic Functions)
 

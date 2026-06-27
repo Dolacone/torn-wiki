@@ -25,7 +25,7 @@
 
 書籍加成極其珍貴，絕不可在未準備的情況下開啟：
 - 流程演練：建議在正式讀書前進行 5 天的「模擬操作」，確保你的 Job Points、Drug Addiction 等狀態能精確銜接。
-- 資源對齊：確保所屬派系 (Faction) 與公司 (Company) 的相關加成在接下來的 31 天內能保持穩定。
+- 資源對齊：確保所屬派系 [[factions/overview]] 與公司 [[companies/overview]] 的相關加成在接下來的 31 天內能保持穩定。
 
 ## 參考資料 (References)
 

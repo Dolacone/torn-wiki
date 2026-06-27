@@ -25,7 +25,7 @@
 
 ### 成人用品店 (Adult Novelty)
 - 10星福利：Indecent (被動) - Erotic DVDs 提升 100% Happy 加成。
-- 建議：適合能負擔頻繁持續 Happy Jump 的玩家。
+- 建議：適合能負擔頻繁持續 [[battlestats/happy-jumping|Happy Jump]] 的玩家。
 
 ### 甜食店 (Sweet Shop)
 - 10星福利：Voracious (30點) - 提供 4.5k Happy。
@@ -33,7 +33,7 @@
 
 ### 音樂商店 (Music Store)
 - 3星：30% Gym XP 提升 (快速解鎖進階 Gym)。
-- 建議：解鎖高級 Gym 的最佳跳板。
+- 建議：解鎖高級 Gym 的最佳跳板，配合 [[battlestats/training-strategy|長期訓練策略]] 使用。
 
 ### 健身中心 (Fitness Center)
 - 10星：3% Gym gains 獲得加成 (被動)。
