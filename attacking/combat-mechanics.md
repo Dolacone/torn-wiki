@@ -1,45 +1,6 @@
 # 戰鬥機制與護甲分析 (Combat Mechanics & Armor Analysis)
 
-本文件整理了關於屬性對抗公式、門檻、Critical Hit 機率、Body parts 傷害修正以及各類 Armor 性能的詳細數據。更完整的戰力計算原理見 [[battlestats/combat-formulas]]。
-
-## 核心對抗公式 (Core Combat Formulas)
-
-### 命中率公式 (Hit Chance)
-- **公式**: `Hit Chance = 0.5 + 0.278 * LOG10(Speed / Dexterity)`
-- **門檻**: 
-  - 速度為敏捷 64 倍時必中 (100%)。
-  - 敏捷為速度 64 倍時完全閃避 (0%)。
-
-### 傷害減免公式 (Damage Mitigation)
-- **公式**: `Mitigation = 0.5 + 0.435 * LOG10(Defense / Strength)`
-- **門檻**: 
-  - 防禦為力量 14 倍時達成完全減傷 (100%)。
-
-## 屬性對抗倍率關鍵點 (Stat Ratio Key Points)
-
-### 敏捷 (Dexterity) 閃避門檻
-若要讓對手的命中率降至特定百分比，你的敏捷倍率需求 (Dex/Spd)：
-- 對手命中 50%：1 倍
-- 對手命中 25%：4 倍
-- 對手命中 20%：4.5 倍
-- 對手命中 10%：11 倍
-- 對手命中 5%：22 倍
-- 對手命中 4%：32 倍
-- 對手命中 0%：64 倍
-
-### 防禦 (Defense) 減傷門檻
-若要達成特定減傷百分比 (Mitigation)，你的防禦倍率需求 (Def/Str)：
-- 100% 減傷：14.00 倍
-- 90% 減傷：9.00 倍
-- 80% 減傷：4.80 倍
-- 70% 減傷：2.90 倍
-- 60% 減傷：1.70 倍
-- 50% 減傷：1.00 倍
-- 40% 減傷：0.50 倍
-- 30% 減傷：0.25 倍
-- 20% 減傷：0.12 倍
-- 10% 減傷：0.06 倍
-- 0% 減傷：0.03 倍
+本文件整理了關於 Body parts 傷害修正、各類 Armor 覆蓋率以及 End Game 25% 暴擊狀況下的等效傷害修正係數。更完整的戰力計算原理與公式見 [[battlestats/combat-formulas]]。
 
 ## 部位命中與傷害修正 (Body Part Hits & Damage Modifiers)
 
@@ -64,15 +25,6 @@
 | 敵人暴擊 12% | 0.3360 | 0.0420 | 0.0420 | 0.4400 | 0.3520 | 0.0880 | 0.0616 | 0.0880 | 0.1760 | 0.0616 | 1.6872 |
 | 敵人暴擊 20% | 0.5600 | 0.0700 | 0.0700 | 0.4000 | 0.3200 | 0.0800 | 0.0560 | 0.0800 | 0.1600 | 0.0560 | 1.8520 |
 | 敵人暴擊 25% | 0.7000 | 0.0875 | 0.0875 | 0.3750 | 0.3000 | 0.0750 | 0.0525 | 0.0750 | 0.1500 | 0.0525 | 1.8550 |
-
-## 暴擊率提升途徑 (Critical Hit Probability Paths)
-
-Critical Hit 機率起點為 12%，可透過以下方式提升：
-- Education BIO2410: Anatomy: +3%
-- Merits 投入暴擊率：每級 +0.5% (最高 +5%)
-- 雷射武器模組 (Laser Weapon Mods): +2-5%，詳見 [[attacking/weapon-mods]]
-
-投資建議：完成 Education 課程並安裝雷射模組後，投入 10 點 Merits 可讓攻擊期望值提升約 5.562%。相比之下，將 10 點 Merits 投入特定武器精通 (Weapon Mastery) 可提升至少 10% 傷害，效益更高，但缺點是僅限於該單一武器類型。Merits 分配優先級見 [[merits/priorities]]。
 
 ## 護甲數值與覆蓋率比較 (Armor Rating & Coverage Comparison)
 
@@ -104,33 +56,79 @@ Critical Hit 機率起點為 12%，可透過以下方式提升：
 | Vanguard | 39.60 | 83.53 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 |
 | EOD | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 |
 
-## 最終傷害修正分析 (Final Damage Modifier Analysis)
+## 最終傷害修正分析 (Final Damage Modifier Analysis - End Game 25% Critical)
 
-係數越低對使用者越有利。
+在 End Game (敵人暴擊率 25%) 狀況下的等效傷害修正係數。係數越低對使用者越有利。
 
-| Armor 類型 | 敵人暴擊 12% | 敵人暴擊 20% | 敵人暴擊 25% |
+### 等效傷害修正係數表 (End Game 25% Critical)
+
+| Armor 類型 | 基礎傷害修正 (無特效) | 等效傷害修正 (計入特效最低值) | 特效觸發情境與折算說明 |
 | --- | --- | --- | --- |
-| Combat (+flexible) | 1.0413 | 1.1810 | 1.2684 |
-| Riot | 0.8482 | 0.8671 | 1.0414 |
-| Assault | 0.8893 | 1.0159 | 1.0951 |
-| Dune | 0.8182 | 1.0489 | 1.1307 |
-| Delta | 0.8961 | 1.0663 | 1.1727 |
-| Marauder | 0.7847 | 0.8832 | 0.8447 |
-| Sentinel | 0.7755 | 0.8837 | 0.8513 |
-| Vanguard | 0.8122 | 1.0671 | 1.1638 |
-| EOD | 0.5702 | 0.6458 | 0.6930 |
+| Combat (標準值) | 1.2868 | 1.2868 | 商店白板防具，無特效 |
+| Riot | 1.1625 | 0.8200 | 計入對近戰 30% 減傷 (部位觸發) |
+| Assault | 1.1705 | 0.8936 | 計入對子彈 30% 減傷 (部位觸發) |
+| Dune | 1.2105 | 0.7829 | 計入血量低於 25% 時 45% 減傷 (部位觸發) |
+| Delta | 1.2528 | 1.2528 | 特效為負面狀態抗性，無直接減傷 |
+| Marauder | 1.0339 | 0.8271 | 計入生命值 +25% 被動加成 (等效傷害乘以 0.80) |
+| Sentinel | 1.0173 | 0.6651 | 計入防禦力 +150% 被動加成 (等效傷害乘以 0.6538) |
+| Vanguard | 1.2275 | 0.9560 | 計入敏捷閃避 +150% 被動加成 (等效傷害乘以 0.7788) |
+| EOD | 0.8806 | 0.6165 | 計入 30% 全時免傷機率 (等效傷害乘以 0.70) |
+
+### 計算公式與參數設定
+
+本表數值基於以下公式與參數，可完全重現：
+
+#### 1. 基礎參數設定
+- 敵人暴擊率 25% 時的部位命中機率 (Prob)：
+  - 頭部: 20.0%, 喉嚨: 2.5%, 心臟: 2.5%, 胸部: 18.75%, 胃部: 15.0%, 手臂: 7.5%, 手部: 7.5%, 鼠蹊部: 3.75%, 腿部: 15.0%, 腳部: 7.5%
+- 部位傷害修正係數 (Part_Modifier)：
+  - 頭部/喉嚨/心臟: 3.5, 胸部/胃部/鼠蹊部: 2.0, 手臂/腿部: 1.0, 手部/腳部: 0.7
+- 基礎防具護甲值 (最低值)：
+  - Combat：Helmet 40.5, Body 44.5, Pants 40.5, Gloves 40.5, Boots 40.5
+  - Riot：Helmet 35, Body 45, Pants 45, Gloves 45, Boots 45
+  - Assault：Helmet 46, Body 46, Pants 46, Gloves 46, Boots 46
+  - Dune：Helmet 44, Body 44, Pants 44, Gloves 44, Boots 44
+  - Delta：Helmet 49, Body 49, Pants 49, Gloves 49, Boots 49
+  - Marauder：Helmet 40, Body 52, Pants 52, Gloves 52, Boots 52
+  - Sentinel：Helmet 53, Body 53, Pants 53, Gloves 53, Boots 53
+  - Vanguard：Helmet 48, Body 48, Pants 48, Gloves 48, Boots 48
+  - EOD：Helmet 55, Body 55, Pants 55, Gloves 55, Boots 55
+- 高級防具部位防護對應 (Mapping)：
+  - Helmet 保護：頭部、喉嚨
+  - Body 保護：心臟、胸部、胃部、手臂
+  - Gloves 保護：手部
+  - Pants 保護：鼠蹊部、腿部
+  - Boots 保護：腳部
+- 部位覆蓋率 (Coverage)：同上表 [各類護甲部位覆蓋率] 所列百分比。
+
+#### 2. 部位被傷害期望值算式
+每個部位的傷害期望值 (D_p)：
+- D_p = Prob_p × Part_Modifier_p × [ (Coverage_p / 100) × (1 - Armor_rating_p / 100) × (1 - Active_Reduction_p) + (1 - Coverage_p / 100) ]
+- 其中部位減傷特效 (Active_Reduction)：Riot 對近戰為 30% (0.30)；Assault 對子彈為 30% (0.30)；Dune 為 45% (0.45)；其餘防具為 0。
+- 將 10 個部位的 D_p 加總，得到該防具的基礎受傷修正值 (D_base)。
+
+#### 3. 全域被動特效折算 (等效傷害折算因子)
+最終等效傷害修正 (D_final) = D_base × EHP_Multiplier：
+- EOD (全時免傷 30%)：EHP_Multiplier = 0.70
+- Marauder (生命值 +25%)：EHP_Multiplier = 1 / 1.25 = 0.80
+- Sentinel (防禦力 +150%)：
+  - 依據 [combat-formulas.md](file:///C:/Users/Dolacone/Dropbox/wiki/torn/battlestats/combat-formulas.md) 的公式：Mitigation = 0.5 + 0.435 × LOG10(Defense / Strength)
+  - 假設基礎屬性比為 1:1 (減傷 50%)，防禦力變為 2.5 倍後，減傷率提升至 67.31%。
+  - 折算因子 = (1 - 0.6731) / (1 - 0.50) = 0.6538
+- Vanguard (敏捷度 +150%)：
+  - 依據 [combat-formulas.md](file:///C:/Users/Dolacone/Dropbox/wiki/torn/battlestats/combat-formulas.md) 的公式：Hit Chance = 0.5 + 0.278 × LOG10(Speed / Dexterity)
+  - 假設基礎屬性比為 1:1 (命中 50%)，敏捷變為 2.5 倍後，命中率降低至 38.94%。
+  - 折算因子 = 38.94% / 50.00% = 0.7788
 
 ## 結論與比較建議 (Conclusion & Strategic Advice)
 
-1. EOD 頂級 Armor 無疑是表現最好的，絕對物有所值。
-2. 在價格相近的 Delta, Marauder, Sentinel 與 Vanguard 高級 Armor 中：
-   - Marauder 與 Sentinel 明顯更優。
-   - Delta 與 Vanguard 較差，會讓敵人多造成約 22% 傷害。
-   - Delta 的價位與其優質加成相關，但 Vanguard 的性能低於 Sentinel 令人意外。
-3. 其他 Armor 中，Riot 的表現令人驚喜（優於預期），選擇 Riot 或 Assault 主要取決於你更偏好防禦近戰還是子彈傷害。
-
-註：傷害修正僅基於標準 Armor 參數比較，未計入高級 Armor 的特殊加成 (Premium Bonuses)。
+1. EOD 套裝在 End Game 擁有最頂級的生存能力 (等效係數 0.6165)，但若考量性價比，Sentinel 套裝在屬性對等下能提供極高的防禦被動增幅，等效係數 (0.6651) 直逼 EOD。
+2. Marauder 套裝 (0.8271) 提供穩定的 25% 生命值增幅，其防護表現與 Riot 套裝在近戰環境下的防護力相當，且不受對手屬性壓制影響，是極為穩定的全時防護裝備。
+3. Delta 與 Vanguard 在純減傷期望值上表現較差，但其價值分別體現在負面狀態抗性與極高敏捷帶來的閃避/隱匿上。
 
 ## 參考資料 (References)
 
-https://www.torn.com/forums.php#/p=threads&f=61&t=16399253&b=0&a=0
+- https://www.torn.com/forums.php#/p=threads&f=61&t=16399253&b=0&a=0
+- https://wiki.torn.com/wiki/Armor#Advanced_Armor_Bonuses
+- https://wiki.torn.com/wiki/Battle_Stats#Increasing.2FDecreasing_Battle_Stats
+
