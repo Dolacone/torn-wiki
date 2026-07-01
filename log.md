@@ -18,3 +18,8 @@ Append-only chronological record of all Ingest operations.
 - 驗證了防禦減傷與敏捷命中公式，並將其轉化為等效 EHP 傷害折算因子。
 - 更新了 [combat-mechanics.md](file:///C:/Users/Dolacone/Dropbox/wiki/torn/attacking/combat-mechanics.md) 的 End Game (25% 暴擊) 傷害修正分析表，並附上詳細的算式與參數以利重現。
 
+## [2026-07-01] edit | Fuelling Your Way To Failure prep calculation
+
+- Added Energy Drink prep calculation to items/books-catalog.md.
+- Derived from user-provided Restaurant Professional Metabolism perk (25% consumable CD reduction) and known multipliers (faction x1.5, book x2, event x2).
+- Confirmed two-cycle (Fuelling Your Way To Failure + Memories And Mammaries repeat) can total (~992) matches existing ~1000 can estimate.
