@@ -35,6 +35,28 @@
 | Memories And Mammaries | 複製前一本閱讀書籍的效果 | 通常用於延長 Fuelling Your Way To Failure 或 Ugly Energy。 |
 | Ugly Energy | 最大能量上限提升至 250 | 配合大幅增加能量上限與 124 FHC 使用。 |
 
+### Fuelling Your Way To Failure 準備量精算 (Energy Drink Prep Calculation)
+
+以最大值假設精算（全程無中斷使用，忽略睡眠/住院損耗）：
+
+基礎參數：
+- 單罐 Energy Drink 基礎恢復：30e
+- 基礎冷卻：2h，配合 Restaurant 10 星特殊 Professional Metabolism（消耗品冷卻 -25%）後，實際 CD = 1.5h
+- 加成倍率：faction x1.5、book x2、event x2（event 期間疊乘後為 6x，非 event 期間為 3x）
+
+單輪讀書週期（31 天 = 744h）：
+- 若 event 掌握時機可延伸至 96h：
+  - Event 96h：64 罐 x 30e x 6 = 11,520e
+  - 非 Event 648h：432 罐 x 30e x 3 = 38,880e
+  - 單輪合計：496 罐、50,400e
+
+搭配 Memories And Mammaries 延長第二輪（無 event 加成）：
+- 第二輪 744h / 1.5h CD = 496 罐 x 30e x 3 = 44,640e
+
+兩輪總計：
+- 總罐數：496 + 496 = 992 罐（與前述估計的約 1000 罐吻合）
+- 總額外 Energy：50,400 + 44,640 = 95,040e
+
 ## 戰鬥與戰爭專用書籍 (Combat & Warring Books)
 
 | 書名 | 效果 | 戰術建議 |
