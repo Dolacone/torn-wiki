@@ -34,7 +34,7 @@ Happy Jumping 是透過道具將 Happy 提升至超越 Property 上限的行為�
 - 提示：這是獨立玩家提升屬性最推薦的標準方案。
 
 ### 極致跳點 (99k / Book Jumping)
-- 條件：擁有書籍「Ignorance is Bliss」，書籍系統概覽參見 [[items/books-overview]]。
+- 條件：擁有書籍「Ignorance is Bliss」，詳細攻略參見 [[items/ignorance-is-bliss]]。
 - 效果：書籍生效期間 Happy 不會重置。
 - 策略：使用大量 EDVD 與 Ecstasy 將 Happy 推升至 99k 滿值，並在 31 天內持續透過 Xanax 與 Refill 維持高 Happy 狀態訓練。
 

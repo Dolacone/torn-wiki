@@ -25,7 +25,7 @@
 | Self Defence In The Workplace | Defense Gym Gains +30% | 配合 Ladies Strip Club 職位使用。 |
 | Speed 3 - Rejected Script | Speed Gym Gains +30% | 配合 Fitness Center 並穿著 Sports Sneakers。 |
 | Limbo Lovers 101 | Dexterity Gym Gains +30% | 配合 Gentlemen's Strip Club 職位使用。 |
-| Ignorance Is Bliss | 快樂值可恢復至上限以上 | 適合 Stats 低於 50m (Uncapped) 的玩家配合 E-jump [[battlestats/happy-jumping]] 使用。 |
+| Ignorance Is Bliss | 快樂值可恢復至上限以上 | 適合 Stats 低於 50m 的玩家，詳細使用策略見 [[items/ignorance-is-bliss]]。 |
 
 ## 頂級戰略神器書籍 (God Tier Strategic Books)
 

@@ -64,6 +64,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 ## items
 - [books-overview](items/books-overview.md) — 書籍系統的核心機制與使用時機
 - [books-catalog](items/books-catalog.md) — 全書籍目錄與各書效果及戰術建議
+- [ignorance-is-bliss](items/ignorance-is-bliss.md) — 稀有書籍 Ignorance Is Bliss 的使用機制與訓練指南
 
 ## jobs
 - [city-careers](jobs/city-careers.md) — 城市職業體系的種類與基礎說明

@@ -23,3 +23,9 @@ Append-only chronological record of all Ingest operations.
 - Added Energy Drink prep calculation to items/books-catalog.md.
 - Derived from user-provided Restaurant Professional Metabolism perk (25% consumable CD reduction) and known multipliers (faction x1.5, book x2, event x2).
 - Confirmed two-cycle (Fuelling Your Way To Failure + Memories And Mammaries repeat) can total (~992) matches existing ~1000 can estimate.
+
+## [2026-07-08] ingest | Ignorance Is Bliss Guide
+
+- 導入關於稀有書籍 Ignorance Is Bliss 使用策略的論壇指南。
+- 新增專屬 Wiki 頁面 [ignorance-is-bliss.md](items/ignorance-is-bliss.md)，詳細解析 Happy 提升與訓練策略。
+- 更新 [books-catalog.md](items/books-catalog.md) 與 [happy-jumping.md](battlestats/happy-jumping.md) 中的交叉連結。
