@@ -19,7 +19,7 @@
 
 ## 外部增益與加成匯整 (External Buffs & Bonuses)
 
-- 城市工作：[[jobs/city-careers|Law 法律職業]]能顯著提升犯罪進度。
+- 城市工作：[[jobs/city-careers|Law 法律職業]]永久增加 5% Crime Experience 與 Skill Gain。
 - 派系 Perk：最高可提供 10% 的犯罪進度加成。詳見 [[factions/overview|派系系統]]。
 - 教育課程：心理學學士學位 (Psychology bachelor) 在 2.0 中非常強大。詳見 [[education/priorities|教育優先級]]。
 - 增強器 (Enhancers)：

@@ -13,10 +13,12 @@
 ## 新手必學訓練法
 ### 巧克力跳 (Choco Jump)
 - 利用糖果 (Candies) 在短時間內推高快樂值後進行大量訓練，詳見 [[basics/choco-jump]]
+- 使用自然 Energy 上限、1 個 Xanax 與 1 個 Ecstasy
 - 適合初期屬性成長，成本極低
 
 ### 快樂跳 (Happy Jump)
 - 使用高級物品（如 Edvd、Ecstasy）極限堆疊快樂值，詳見 [[battlestats/happy-jumping]]
+- 使用 4 個 Xanax 堆疊至 1,000 Energy
 - 在快樂值超過上限時，一次性耗盡體力 (Energy) 以換取超額成長
 - 注意：通常在有一定資金基礎後進行
 

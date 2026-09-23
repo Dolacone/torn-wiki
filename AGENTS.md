@@ -8,6 +8,7 @@ This wiki uses a three-layer structure:
 
 - sources/: Raw, immutable source material (forum posts, guides, Discord excerpts). Never edited after ingestion.
 - wiki pages: LLM-maintained .md files organized by topic directory. These are the living knowledge base.
+- notebooklm/: Generated export-only Markdown for Google NotebookLM. Normal wiki management must ignore this directory.
 - AGENTS.md: This file. Governs all agent behavior and wiki conventions.
 
 ## Workflows
@@ -59,6 +60,13 @@ Triggered on demand to health-check the wiki.
   ```
 - Never edited after the initial save.
 
+### notebooklm/
+- Contains generated Markdown exports for Google NotebookLM.
+- Normal Ingest, Query, Lint, and wiki maintenance must not read or write this directory.
+- Do not use these files as sources for wiki content.
+- Update canonical wiki pages first, then regenerate the exports.
+- Do not add export files to `index.md`, `log.md`, or wiki cross-references.
+
 ### Wikilinks
 - Use `[[filename]]` (without directory prefix) to cross-reference pages.
 - If the target filename is ambiguous, use `[[directory/filename]]`.
@@ -86,5 +94,6 @@ Triggered on demand to health-check the wiki.
 - Retain original source URLs at the bottom of wiki pages under a `## Sources` section.
 
 ## Revision History
+- 2026-09-17: Added `notebooklm/` as an export-only generated directory.
 - 2026-06-27: Migrated to llm-wiki schema. Added three-layer architecture, Ingest/Query/Lint workflows, index/log/sources conventions, wikilink standard.
 - 2026-04-18: Initialized project instructions, integrated terminology and numeric format standards.

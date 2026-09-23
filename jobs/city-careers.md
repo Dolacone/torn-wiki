@@ -18,8 +18,9 @@
 
 ### 法律職業 (Law)
 - 最高職位：Federal Judge (聯邦法官)。
-- 核心加成：永久提升 10% 的犯罪 (Crime) 成功率。
-- 效果：在累積 Crime Experience 與進展[[crimes/crimes-2.0-overview]]時提供顯著優勢。
+- 核心加成：永久增加 5% Crime Experience 與 Skill Gain。
+- Nerve 與 10% Crime Success 不屬於此永久加成。
+- 效果：加快[[crimes/crimes-2.0-overview|Crimes 2.0]]的長期進度。
 
 ---
 

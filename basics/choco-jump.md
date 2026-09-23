@@ -1,41 +1,42 @@
 # 巧克力跳躍訓練指南 (Choco Jump Guide)
 
-Choco Jump (或稱 Half Choco Jump) 是一種比標準 [[battlestats/happy-jumping]] 更經濟實惠的訓練技術，適合初期資金有限的新手。
+Choco Jump 是低成本 Candy 訓練法，適合初期資金有限的新手。它不使用 1,000 Energy 堆疊。
 
 ## 核心訓練機制 (Core Training Mechanics)
 
 - 成本：約 $3m。
-- 效果：介於自然 Energy 訓練與昂貴的 EDVD Jump 之間。
+- 效果：介於自然 Energy 訓練與 [[battlestats/happy-jumping|Happy Jump]] 之間。
 - 道具需求：
-    - 49 個 Bag of Candy Kisses (BCC) 或 Big Box of Chocolate (BBC)。
+    - 最多 49 個 Bag of Candy Kisses (BCC) 或 Big Box of Chocolate Bars (BBC)。
     - 推薦：使用 BCC，因其價格與 BBC 相當，但每份額外提供 15 Happy。
+    - 1 個 Xanax。
     - 1 個 Ecstasy。
-    - 1000 Energy (需經由 Xanax 堆疊)。
+    - 可選用一次 Points Refill。
 
 ## 執行步驟流程 (Execution Steps)
 
-1. 堆疊 Energy：使用 4 個 Xanax 將 Energy 累積至 1000。
-2. 等待重置：確保 Drug Cooldown 與 Booster Cooldown 歸零。
-3. 監控時間：在每 15 分鐘重置 (XX:00, 15, 30, 45) 剛結束後開始。
-4. 消耗 Boosters：吃掉 49 個 Big Box of Chocolate (獲得約 1.7k Happy)。
-5. 翻倍：使用 Ecstasy 將 Happy 翻倍至約 4k 以上。
-6. 訓練：在 15 分鐘內耗盡 1000 Energy 進健身房。
-7. 補給：若有 Points，可進行 Refill 以獲取更高收益。
+1. 先讓 Energy 自然回滿。
+2. 使用 1 個 Xanax。
+3. 等待 Drug Cooldown 與 Booster Cooldown 歸零。
+4. 在 15 分鐘重置點剛過後使用 Candy。
+5. 使用 1 個 Ecstasy 將目前 Happy 加倍。
+6. 在下一個重置點前耗盡 Energy。
+7. 使用 Refill 後，再次耗盡 Energy。
 
 ## 每日雙次跳點技術 (Double Daily Jump Method)
-
-如果你可以精準掌控時間，這個方法能提供接近標準 Happy Jump 兩倍的週收益。
 
 - 原理：將 Booster Cooldown 控制在 12 小時內。
 - 步驟：
     - 每次僅使用 22-24 個 BCC/BBC。
     - 這會產生約 11-12 小時的冷卻時間。
-    - 每日可執行兩次跳點（需配合 2 次 Ecstasy 與足夠的 Energy 堆疊）。
-- 優點：每週總收益遠超 1 次 Happy Jump，且整體成本更低。
+    - 每次使用 1 個 Xanax 與 1 個 Ecstasy。
+- 優點：每日可使用兩個 Booster 週期。
 
 ## 安全性與毒品風險評估 (Safety & Drug Risks)
 
-- 低 Overdose 風險：Choco Jump 每次僅需 1 Xanax 與 1 Ecstasy。相較於標準 HJ (4-5 個 Xanax + 1 Ecstasy)，其過量風險與治療 ([[mechanics/addiction-rehab|Rehab]]) 成本顯著更低。
+- Choco Jump 每次使用 1 個 Xanax 與 1 個 Ecstasy。
+- Happy Jump 使用 4 個 Xanax 與 1 個 Ecstasy，因此 Drug 次數較高。
+- Addiction 與 Rehab 規則見 [[mechanics/addiction-rehab]]。
 
 ## 邊際效益與轉換點 (Diminishing Returns & Transition Point)
 

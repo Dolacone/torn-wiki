@@ -13,22 +13,23 @@
 | 職業 | 主要加成 | 門檻要求 |
 | :--- | :--- | :--- |
 | 教育 (Education) | 解鎖課程時間縮減 | Int (4,365), Man (1,252), End (1,236) |
-| 法律 (Law) | 增加神經值上限 (Nerve Bar) | End (14,350), Int (8,485), Man (5,560) |
+| 醫療 (Medical) | 永久解鎖 Revive | Int (9,378), End (3,673), Man (2,316) |
+| 法律 (Law) | 永久增加 5% Crime Experience 與 Skill Gain | End (14,350), Int (8,485), Man (5,560) |
 
-- 建議路徑 (Education -> Law)：
-  - 起始屬性建議：Int (7,850), End (13,811), Man (5,037)
+- 建議路徑：Education -> Medical -> Law。
+- 三職業連續通關起始屬性：Int (8,743), End (13,484), Man (4,753)。
 
 ## [[education/priorities|教育課程 (Education) 優先順序]]
-- 生物學 (Biology)：解鎖血液裝備 (Blood Bags)
-- 運動科學 (Sports Science)：提升健身房屬性獲得率
-- 電腦科學 (CMT2560)：製作 Firewalk 病毒獲利
-- 電腦科學 (CMT2129)：提升黑客與犯罪效率
-- 心理學 (Psychology)：提升犯罪成功率與技能成長
+- BIO1340 + BIO2127：優先解鎖 Blood Bags。
+- CMT1520 + CMT2230：Crime Bootlegging 會用到。
+- Sports Science：完成全部課程。
+- CMT2130 + CMT2131：Crime Scamming 會用到。
+- Psychology：完成全部課程。
 
 ### 後續路徑建議
 - 歷史 (History)：換取博物館點數 (Points)
 - 商業 (Business)：經營公司之準備
-- 戰鬥路徑：BIO2370 (靜脈注射) -> 戰鬥訓練 (Combat Training) -> 數學 (Mathematics)
+- 戰鬥路徑：BIO2370 -> Combat Training -> Mathematics。
 
 ## [[merits/priorities|功勳點 (Merits) 分配順序]]
 - 教育長度 (Education Length) 10/10：優先省下時間

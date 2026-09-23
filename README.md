@@ -22,6 +22,7 @@
 | [merits/](merits/) | 功勳點分配優先級 |
 | [money/](money/) | 收入策略與資產保護 |
 | [newbies/](newbies/) | 新手教學系列 |
+| [notebooklm/](notebooklm/) | Google NotebookLM 匯出檔；一般 wiki 管理必須忽略 |
 | [others/](others/) | 劫獄與其他雜項 |
 | [property/](property/) | 快樂值機制與私人島嶼 |
 

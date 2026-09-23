@@ -52,6 +52,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 
 ## events
 - [420-day](events/420-day.md) — 大麻節活動的參與方式與獲益策略
+- [elimination](events/elimination.md) — 淘汰賽活動的參與方式、機制與新手策略
 - [museum-day](events/museum-day.md) — 博物館日的操作流程與獎勵說明
 
 ## factions

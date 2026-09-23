@@ -9,14 +9,15 @@
 
 ## 等級衝刺戰法 (Leveling Strategy)
 
+### Energy 分配
+- 第一階段：先在 Gym 將三項 Battlestats 練到各 500。
+- 第二階段：達標後把 Energy 投入 Attacking。
+- 達到 Level 15 後：停止主動衝等，回到 Gym 訓練。
+
 ### 升級目標選擇 (Leveling Targets)
 - 工具：利用 Baldr's Leveling Targets 尋找低屬性的非活躍玩家。
 - 操作：擊敗後選擇 Leave on street 以獲取最大 Experience。
-- 策略：15 級前應將多數 Energy 用於此途徑。
-
-### 成長重心轉向 (Growth Strategy Shift)
-- 15 級前：將大部分或全部 Energy 用於 Attacking 升級目標。
-- 15 級後：停止主動升級，將所有 Energy 回歸 Gym 訓練。等級會隨時間自然增長，[[battlestats/training-strategy|Stats]] 才是長期的核心。
+- 策略：先完成基礎 Battlestats，再集中攻擊 Leveling Targets。
 
 ## 資源管理與配套 (Resource Management)
 
@@ -28,7 +29,7 @@
 - Xanax：核心資源，隨時保持庫存。
 - 醫療物資：30+ First Aid Kits。
 - 房產：租用 Ranch 或 [[property/private-island|Private Island]]。
-- Happy Jump 道具：Ecstasy、48 份 Big Box of Chocolate (用於 [[basics/choco-jump|Choco Jump]])。
+- Choco Jump 道具：Candy、1 個 Xanax 與 1 個 Ecstasy。
 
 ## 房產與快樂值配套 (Properties & Happy)
 - 衝等期間建議租用 Mansion (1500 Happy) 或 Penthouse (925 Happy)。
