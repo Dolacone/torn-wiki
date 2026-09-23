@@ -40,3 +40,7 @@ Append-only chronological record of all Ingest operations.
 - 新增 [[trick-or-treat]] TLDR 指南：籃子取得、Treat 掉落、籃子等級、單一升級順序、Energy 準備與便宜 Scary 裝備。
 - 升級順序以論壇作者順序為基礎，Mortal Coil 改為到 Horrifying 後立即購買。
 - 開賣時間 12 TCT、每 5 分鐘補貨、升級給的 Treats 算入籃子升級，依使用者確認採用。
+
+## [2026-09-24] edit | Cruise Line 10* travel capacity
+
+- 修正 [[traveling]] 的 Cruise Line Agency 10星加成為 +3，與 [[income-trading]] 及 wiki.torn.com Cruise Line 頁面一致。

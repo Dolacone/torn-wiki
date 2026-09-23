@@ -17,7 +17,7 @@
     - Toy Shop (7星)：+5 Plushies。
     - Flower Shop (7星)：+5 Flowers。
     - Lingerie Store (3星)：+2 總量。
-    - Cruise Line Agency (10星)：+5 總量。
+    - Cruise Line Agency (10星)：+3 總量。
 
 ## 旅遊安全策略控管 (Travel Safety Strategy)
 
