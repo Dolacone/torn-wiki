@@ -54,6 +54,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 - [420-day](events/420-day.md) — 大麻節活動的參與方式與獲益策略
 - [elimination](events/elimination.md) — 淘汰賽活動的參與方式、機制與新手策略
 - [museum-day](events/museum-day.md) — 博物館日的操作流程與獎勵說明
+- [trick-or-treat](events/trick-or-treat.md) — 萬聖節 Trick or Treat 活動的籃子機制、升級順序與回本分析
 
 ## factions
 - [overview](factions/overview.md) — 派系系統的完整機制與加入建議

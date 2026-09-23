@@ -35,3 +35,8 @@ Append-only chronological record of all Ingest operations.
 - 新增 [[elimination]]，彙整 Elimination 全服淘汰賽之核心機制、報名門檻、新手生存策略與商業機會。
 - 更新 [[index]]，在 events 分類新增 elimination 導覽索引。
 
+## [2026-09-24] ingest | Trick or Treat (wiki + Neat Trick or Treat Guide)
+
+- 新增 [[trick-or-treat]] TLDR 指南：籃子取得、Treat 掉落、籃子等級、單一升級順序、Energy 準備與便宜 Scary 裝備。
+- 升級順序以論壇作者順序為基礎，Mortal Coil 改為到 Horrifying 後立即購買。
+- 開賣時間 12 TCT、每 5 分鐘補貨、升級給的 Treats 算入籃子升級，依使用者確認採用。
