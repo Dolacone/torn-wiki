@@ -61,6 +61,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 - [organized-crime-2.0](factions/organized-crime-2.0.md) — 組織犯罪 2.0 的運作規則與效益
 
 ## general
+- [forum-html-formatting](general/forum-html-formatting.md) — 論壇編輯器 Source Code 模式的 HTML/CSS 排版元件與廣告範本
 - [traveling](general/traveling.md) — 海外旅遊的流程、成本與貿易機會
 
 ## items

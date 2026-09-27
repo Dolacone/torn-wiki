@@ -44,3 +44,8 @@ Append-only chronological record of all Ingest operations.
 ## [2026-09-24] edit | Cruise Line 10* travel capacity
 
 - 修正 [[traveling]] 的 Cruise Line Agency 10星加成為 +3，與 [[income-trading]] 及 wiki.torn.com Cruise Line 頁面一致。
+
+## [2026-09-27] ingest | Forum HTML formatting (Noteasy_na train ad + editor test)
+
+- 新增 [[forum-html-formatting]]：`{}` Source Code 輸入方式、已驗證 CSS 屬性、配色、元件片段與 Train 廣告範本。
+- 已驗證範圍為 Edit 模式預覽，正式送出後的渲染未驗證。
