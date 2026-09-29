@@ -15,7 +15,7 @@ Preserve factual meaning, conditions, exceptions, formulas, tables, terminology,
 
 Optimize for NotebookLM retrieval and grounded answers. Human reading flow is secondary.
 
-Do not fix document names, document count, topic grouping, or publishing destination in this skill.
+Do not fix document names, document count, or topic grouping in this skill. The local publishing path below is a repository default, not authorization to publish.
 
 ## Authority boundaries
 
@@ -40,6 +40,8 @@ Derive these values from the current request and repository:
 - Current NotebookLM limits.
 
 If topic grouping changes materially, present the proposed document map and table of contents before generation.
+
+The known local Google Drive folder for this repository is `/Users/kevin.twu/Library/CloudStorage/GoogleDrive-dolacone@gmail.com/My Drive/NotebookLM/torn`. Use it as the default destination when local publishing is authorized. Check that the folder exists and whether each target file already exists. Do not search for the folder again unless this path is unavailable or the user names another destination.
 
 ## NotebookLM reference perspective
 
@@ -258,7 +260,7 @@ Report unrelated pre-existing findings without blocking the export.
 
 ### Limit validation
 
-Obtain current limits from official Google sources before assigning pass or fail.
+The [official Google FAQ](https://support.google.com/gemininotebook/answer/16269187?hl=en) reported these limits on 2026-09-29: 500,000 words per source, 200 MB per local upload, and 50 sources per free notebook. Open this page directly to check current limits before assigning pass or fail. If it is unavailable, report limits as unverified.
 
 Measure every output with one method.
 
@@ -277,6 +279,8 @@ Resolve the destination before writing.
 Do not delete or overwrite unrelated files.
 
 After publishing, compare source and destination checksums with the same command.
+
+For authorized local publishing, copy only the generated artifacts. Run `shasum -a 256 <source> <destination>` for each copied file.
 
 ## Acceptance criteria
 

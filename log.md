@@ -49,3 +49,9 @@ Append-only chronological record of all Ingest operations.
 
 - 新增 [[forum-html-formatting]]：`{}` Source Code 輸入方式、已驗證 CSS 屬性、配色、元件片段與 Train 廣告範本。
 - 已驗證範圍為 Edit 模式預覽，正式送出後的渲染未驗證。
+
+## [2026-09-29] ingest | Racing
+
+- 新增 [[racing]]：賽事類型、Racing Points、Class 門檻與各 Class 車輛升級路線。
+- 以論壇指南補全 Class C 的 Uprated Springs & Dampers (Hard) 名稱。
+- 在 [[traveling]] 補上報名 Racing 後的飛行限制。

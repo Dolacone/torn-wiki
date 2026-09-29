@@ -62,6 +62,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 
 ## general
 - [forum-html-formatting](general/forum-html-formatting.md) — 論壇編輯器 Source Code 模式的 HTML/CSS 排版元件與廣告範本
+- [racing](general/racing.md) — Racing 賽事積分、Class 門檻與車輛升級路線
 - [traveling](general/traveling.md) — 海外旅遊的流程、成本與貿易機會
 
 ## items
