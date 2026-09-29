@@ -55,3 +55,8 @@ Append-only chronological record of all Ingest operations.
 - 新增 [[racing]]：賽事類型、Racing Points、Class 門檻與各 Class 車輛升級路線。
 - 以論壇指南補全 Class C 的 Uprated Springs & Dampers (Hard) 名稱。
 - 在 [[traveling]] 補上報名 Racing 後的飛行限制。
+
+## [2026-09-29] ingest | Torn API docs
+
+- 新增 [[torn-api]]：官方文件、v1/v2 認證方式、Access Level、額度與 cache 入口。
+- 保存官方 API 說明與 OpenAPI spec 的節錄。
