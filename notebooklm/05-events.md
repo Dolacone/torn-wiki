@@ -10,19 +10,22 @@
 
 | 活動 | 時間 | 核心玩法 |
 |---|---|---|
-| Trick or Treat (萬聖節不給糖就搗蛋) | 每年約 10 月 25 日起，7 天 | 攻擊玩家收集 Treats，升級 Halloween Basket |
+| Trick or Treat (萬聖節不給糖就搗蛋) | 每年約 10 月 25 日起，7 天 | 攻擊玩家收集 Treats，升級 Halloween Basket，打世界 Boss M'aol |
 | Museum Day (博物館日) | 每年 5 月 18 日 | 在 Museum 兌換 Plushie 與 Flower 組合，Points +10% |
 | 420 Day / Cannabis Day (大麻節) | 2026 年為 4 月 19 日至 21 日 | Cannabis 提供 3 倍 Nerve |
 | Elimination (淘汰賽) | 每年約 9 月前後 | 全服分隊互相攻擊，搶奪 Tickets 淘汰敵隊 |
 
 ## Trick or Treat 萬聖節活動 (Halloween Basket and Treats)
 
-### 活動基本規則
+### 活動基本規則與懶人包
 
 - 時間：每年約 10 月 25 日開始，為期 7 天，確切時間以遊戲內 calendar 為準。
 - 玩法：攻擊並擊敗其他玩家收集 Treats，填滿 Halloween Basket。
 - Treats 與籃子升級永久保留、跨年累積。
 - 升級沒點完前，不要按 Exchange All Treats。
+- 有世界 Boss M'aol 時先打 Boss，每隻小 Boss 都盡量打一下。摸到 Boss 的期望值遠高於打路人。
+- 沒有 Boss 時，挑一下就倒的弱目標，不必挑難打的對手。
+- 約第三年開始獲利。籃子滿級後回報約 2m-4m / 25e，不計籃子滿級前的投入。
 
 ### 取得 Halloween Basket
 
@@ -33,7 +36,8 @@
 
 ### Treat 掉落規則
 
-- 擊敗對手才會掉落 Treats，防守不會。目標強弱與攻擊結果不影響掉落機率。
+- 擊敗對手才會掉落 Treats，防守不會。目標強弱與攻擊結果不影響掉落機率，leave / mug / hospital 都一樣。
+- 掉落率 = 籃子等級 + 籃子升級 + Scary 加成。
 - 穿一件 Scary 服裝，並用 Scary 武器打最後一擊，可提高掉落率。
 - 籃子依累計 Treats 自動升級，升級給的 Treats 也算入。
 
@@ -75,26 +79,71 @@
 | 21 | Cold Sweat | 170 | 每兌換 1 Treat +1 Nerve |
 | 22 | 籃子達到 Nightmarish 後才開始兌換 | - | - |
 
-- 不購買的升級：Save Your Tears、Inflation、Summon Him。
+- 不購買的升級：Save Your Tears、Inflation、Summon Him。Summon Him 花 9999 Treats 召喚世界 Boss M'aol。
+- 回本：約第三年開始獲利。籃子滿級後回報約 2m-4m / 25e，不計籃子滿級前的投入。
+
+### Trick or Treat 世界 Boss M'aol：召喚、獎勵與分配
+
+- 玩家花 9999 Treats 購買籃子升級 Summon Him，即可召喚世界 Boss M'aol。看到 Boss 必打。
+- 每隻 Boss 的獎勵：
+  - 1 個 Relic，效期一年。
+  - 100 個大 Treat 箱，每箱開出 200-300 Treats。
+  - 999 個小 Treat 箱，每箱開出 50-75 Treats。
+- 獎勵分配與 NPC 掉落相同：攻擊次數越多，抽獎權重越高。每人只有一次獲獎機會，打一次就好。
+
+### M'aol 階段一：世界各地小 Boss 與 Relic 效果
+
+| 地區 | Relic 效果 |
+|---|---|
+| Mexico | 可重複閱讀已讀過的書 |
+| Cayman Islands | Passive 傷害 +100% |
+| Canada | Critical 機率 +25% |
+| Hawaii | 免除 Drug 負面效果 |
+| United Kingdom | 使用消耗品時不消耗 |
+
+- 距離越遠的小 Boss 越晚死。
+- 沒在第一時間跟上時，可以跳過 Mexico。
+
+### M'aol 階段二：Boss 循環移動、Boss Relic 與 Boss 武器
+
+- Boss Relic：Energy、Nerve、Happy 恢復量變成兩倍。
+- Boss 依照小 Boss 被打死的順序在世界各地循環移動。
+- Boss 出現期間，籃子升級多出三種武器可買：
+
+| 武器 | 效果 |
+|---|---|
+| 小刀 | 穿透 Boss 防禦 |
+| 防具 | 抵抗 Boss 的負面效果 |
+| 投擲 | 讓所有人暫時（15 秒）穿透 Boss 防禦，只能買一次，一次 5 個 |
+
+- 前期不必買。幾乎隨時有人丟穿透投擲道具，所有人都能受益。
 
 ### Trick or Treat 的 Energy 準備
 
-- 消耗品：Xanax、Point Refills、Energy Drinks、Featherly Hotel Coupon、Green Easter Eggs、Seasonal Newsletter 的 +250 Energy。
-- 裝備：Revitalize RW 武器。
+- 消耗品：Xanax、Point Refills、Featherly Hotel Coupon、Seasonal Newsletter 的 +250 Energy。
+- Green Easter Eggs：來自 Easter Egg Hunt 活動。
+- Energy Drinks：只吃到 15e 的 Can of Crocozade。
+- 裝備：Revitalize RW 武器，籃子滿級後才考慮，需 11% 以上。
 - 公司福利：Farm 10星 1 JP 換 7 Energy，是效率最高的 JP 兌換。
 - 書籍：Higher Daddy, Higher!、Fuelling Your Way To Failure、Ugly Energy。
 - 活動期間少出國，在海外容易被打進醫院。
 
-### Trick or Treat 的攻擊目標
+### Trick or Treat 的攻擊目標與 Faction Chain
 
 - 用 FF Scouter 找容易擊敗的目標。
-- Donator 可用 Advanced Search 找不活躍玩家。
+- Donator 可用 Advanced Search 找不活躍玩家或很弱的新人。
 - 攻擊時盡量 chain，為 Faction 累積 respect。
+- 許多 Faction 趁活動衝高 chain，不少 Faction 願意付錢請人顧 chain。
 
 ### 便宜的 Scary 服裝與武器
 
-- 服裝（穿一件即可）：Kabuki Mask、Ginger Kid Mask、Scarred Man Mask、Psycho Clown Mask、Nun Mask、Bloody Apron、Head Bandage、Medieval Helmet。
-- 武器：Axe、Chainsaw、Bone Saw。
+- 服裝（穿一件即可）：Kabuki Mask、Ginger Kid Mask、Scarred Man Mask、Psycho Clown Mask、Nun Mask、Bloody Apron、Head Bandage、Medieval Helmet。完整清單見 [Scary Clothing](https://wiki.torn.com/wiki/Scary_Clothing)。
+- 武器：Axe 最便宜，其他有 Chainsaw、Bone Saw。
+
+### Trick or Treat 賺錢機會
+
+- 活動會大量產出 Energy Drink、Candy、Business Class Ticket。
+- 活動前賣掉手上的這些物品，活動後再低價大量買入。
 
 ## Museum Day 博物館日 (Museum Exchange and Points Bonus)
 
@@ -211,6 +260,8 @@ Museum Day 的 10% Points 加成會讓 Plushies 與 Flowers 需求在活動前�
 
 - https://wiki.torn.com/wiki/Trick_or_Treat
 - https://www.torn.com/forums.php#/p=threads&f=61&t=16505689&b=0&a=0
+- https://wiki.torn.com/wiki/Scary_Clothing
+- 使用者經驗整理 (2026-10-06)
 - https://wiki.torn.com/wiki/Museum
 - https://wiki.torn.com/wiki/Museum_Day
 - https://wiki.torn.com/wiki/Elimination
