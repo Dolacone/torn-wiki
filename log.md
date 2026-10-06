@@ -60,3 +60,11 @@ Append-only chronological record of all Ingest operations.
 
 - 新增 [[torn-api]]：官方文件、v1/v2 認證方式、Access Level、額度與 cache 入口。
 - 保存官方 API 說明與 OpenAPI spec 的節錄。
+
+## [2026-10-06] ingest | Trick or Treat user notes
+
+- 在 [[trick-or-treat]] 新增世界 Boss (M'aol) 一節：獎勵、階段一小 Boss 地區與 Relic、階段二 Boss 武器。
+- 懶人包補上 Boss 優先、打弱目標、約第三年獲利、滿級後回報 2m-4m / 25e。
+- 準備 Energy 補上 Energy Drink 只吃到 15e、Revitalize RW 滿級後才考慮且需 11% 以上。
+- 新增賺錢機會一節：活動前賣出 Energy Drink、Candy、Business Class Ticket，活動後低價買入。
+- 補上 faction 付錢請人顧 chain、Scary Clothing wiki 連結。
