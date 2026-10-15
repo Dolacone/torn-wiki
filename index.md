@@ -27,6 +27,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 - [overview](companies/overview.md) — 公司系統核心機制與選擇框架
 - [combat-warring](companies/combat-warring.md) — 戰鬥與戰爭導向公司的運作與加入建議
 - [crime](companies/crime.md) — 犯罪公司的機制與收益分析
+- [employee-effectiveness](companies/employee-effectiveness.md) — 員工 effectiveness 組成、working stats 公式與 management 資料點
 - [energy-training](companies/energy-training.md) — 能量與訓練公司對戰力養成的影響
 - [income-trading](companies/income-trading.md) — 收入與貿易公司的選擇與效益
 - [specialized-niche](companies/specialized-niche.md) — 特殊與利基型公司的應用場景

@@ -11,6 +11,7 @@
 ## 常見問題 (Common Questions - Q&A)
 
 ### 員工效率功勳建議 (Employee Effectiveness Merits)
+- Effectiveness 的完整組成與計算方式見 [[employee-effectiveness]]。
 - 初級玩家：若 Workstats 較低，建議先透過買 Trains 或加入有輪流訓練的公司，而非浪費 Merits。
 - 中後期玩家：當你的 Workstats 提高，且目標是加入 10 星的高階公司（如電視台），投入 Merits 的效益會隨屬性呈指數級增長。
 

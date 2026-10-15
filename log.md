@@ -68,3 +68,9 @@ Append-only chronological record of all Ingest operations.
 - 準備 Energy 補上 Energy Drink 只吃到 15e、Revitalize RW 滿級後才考慮且需 11% 以上。
 - 新增賺錢機會一節：活動前賣出 Energy Drink、Candy、Business Class Ticket，活動後低價買入。
 - 補上 faction 付錢請人顧 chain、Scary Clothing wiki 連結。
+
+## [2026-10-15] ingest | Employee effectiveness (self-derived)
+
+- 新增 [[employee-effectiveness]]：total 組成、working stats 公式、BUS2110 1.2 倍、每項各自 floor。
+- 記錄 management 資料點與 4 條候選公式，working stats 40-70 區間待補資料。
+- 在 [[overview]] 的 merits 問答連到新頁。
