@@ -34,7 +34,7 @@ working_stats  = eff(primary) + eff(secondary)
 
 - Director 修完 BUS2110 時，stat 先乘 1.2 再代入公式。
 - 取整必須每項各自 floor。先加總再 floor 會讓部分員工多 1 分。
-- effectiveness 不會在 stat 變動時即時重算。剛增加的 stat 可能還沒反映。
+- effectiveness 每天只計算一次。之後調整職位或 stat 變動，都要等下一次計算才會反映。
 
 ```
 eff(stat, req) = FLOOR(MIN(45, 45 / req * stat * 1.2) + MAX(0, 5 * LOG2(stat * 1.2 / req)))
