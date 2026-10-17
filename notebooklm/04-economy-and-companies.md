@@ -172,6 +172,36 @@ PI 是 15 級後的標準配置，也是達成財務自由的主要工具。PI �
 
 - Oil Rig 10星：銀行投資金額上限 +50%。
 - Oil Rig 7星：Cayman Islands 利息 +10%。適合養老與最大化被動收入，搭配現金保護策略使用。
+
+Oil Rig Specials：
+
+| 星級 | Special | 花費 | 效果 |
+|---|---|---|---|
+| 1★ | Danger Money | 1 JP | 換取現金，約 $10k/JP |
+| 3★ | Embargo | 50 JP | 目標 Happy 減半，可出售此服務 |
+| 5★ | Oil Mogul | 3 JP | 銀行投資剩餘時間 -1 小時 |
+| 7★ | Tax Haven | 被動 | Cayman 利息 +10% |
+| 10★ | Fat Cat | 被動 | 銀行投資上限 +50% ($2b -> $3b) |
+
+- 員工每日 JP = 公司星級。10★ 每日 10 JP。
+- 一次 Oil Mogul 的價值 = 全部銀行本金 1 小時的利息。
+
+Oil Rig 收益試算 (2026-10-17，不含薪資)。前提：$2b 銀行投資 90 天收益 $390m。$1b 的其他用途收益以 $1.6b 穩定賺 $850k/day 等比例換算。
+
+| 項目 | 計算 | 每日 |
+|---|---|---|
+| 每日利息 / $1b | $390m / 90 / 2 | $2.167m |
+| 機會成本 / $1b | $850k / 1.6b × 1b | $0.531m |
+| Fat Cat 淨值 | $2.167m - $0.531m | $1.635m |
+| Oil Mogul (10 JP) | $3b 的 3.33 小時利息 | $0.903m |
+| 10★ 淨合計 | Fat Cat 淨值 + Oil Mogul | $2.538m (約 $228m / 90 天) |
+
+- 驗算：每日 3.33 次 Oil Mogul 把 90 天週期縮短為 79.02 天。$3b 一期 $585m，每日 $7.403m。減去 $2b 的每日 $4.333m，毛利 $3.069m，與 Fat Cat 毛利加 Oil Mogul 相同。
+- 本金只有 $2b 時：Fat Cat 無效益，Oil Mogul 10 JP ≈ $0.60m/day，無機會成本。
+- 5★ 公司 (5 JP/day)，本金 $2b：Oil Mogul ≈ $0.30m/day。
+- Embargo 以 $6m/次出售時約 $120k/JP，高於 Oil Mogul 的 $90k/JP (本金 $3b)，前提是有穩定買家。
+- Tax Haven 收益 = Cayman 每日利息 × 10%，未計入上表。
+
 - TV Network：工資極高，10星獎勵包含高價值的隨機報酬。
 - Property Broker 7星：150 JP 換隨機房產。
 - Property Broker 10星：房產升級 10% 折扣。
@@ -257,3 +287,7 @@ PI 是 15 級後的標準配置，也是達成財務自由的主要工具。PI �
 - https://www.torn.com/forums.php#/p=threads&f=61&t=16215307&b=0&a=0
 - https://wiki.torn.com/wiki/Company/Special_List
 - https://wiki.torn.com/wiki/Cruise_Line
+- https://wiki.torn.com/wiki/Oil_Rig
+- https://www.tornstats.com/companies/28
+- https://www.torn.com/forums.php?p=threads&f=3&t=16323914&b=0&a=0
+- https://www.torn.com/forums.php?p=threads&f=10&t=16233493&b=0&a=0
