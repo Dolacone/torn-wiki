@@ -74,3 +74,9 @@ Append-only chronological record of all Ingest operations.
 - 新增 [[employee-effectiveness]]：total 組成、working stats 公式、BUS2110 1.2 倍、每項各自 floor。
 - 記錄 management 資料點與 4 條候選公式，working stats 40-70 區間待補資料。
 - 在 [[overview]] 的 merits 問答連到新頁。
+
+## [2026-10-17] ingest | Oil Rig specials and profit estimate (self-derived)
+
+- 在 [[income-trading]] 的 Oil Rig 補上 1★-10★ special 表與每日 JP = 星級。
+- 新增 10★ 收益試算：Fat Cat 扣 $1b 機會成本後 $1.635m/day，Oil Mogul $0.903m/day，淨合計 $2.538m/day。
+- 補上 $2b 本金、5★ 公司、Embargo 出售的比較，以及來源連結。
