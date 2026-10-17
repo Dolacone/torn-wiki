@@ -66,8 +66,8 @@ Oil Mogul (10 JP)     = $3b 的 3.33 小時利息  ≈ $0.903m/day
 
 ## 市場交易與認知度增益 (Market & Awareness Gains)
 
-### 商店 (Clothing Store) / 汽車經銷商 (Car Dealership) / 房地產經紀 (Property Broker)
-- 5星：物品市場匿名上架免手續費。
+### 汽車經銷商 (Car Dealership) / 房地產經紀 (Property Broker)
+- 5星：Item Market 與 Auction House 上架免手續費。
 
 ### 蠟燭店 (Candle Shop) / 煙火攤 (Firework Stand) / 動物園 (Zoo)
 - 3星或7星：提升 Awareness，增加獲得高品質物品與 SE 的機率。
@@ -86,3 +86,5 @@ https://www.torn.com/forums.php#/p=threads&f=61&t=16215307&b=0&a=0
 - [Torn Stats - Oil Rig](https://www.tornstats.com/companies/28)
 - [Oil rig and other perks that gives money?](https://www.torn.com/forums.php?p=threads&f=3&t=16323914&b=0&a=0)
 - [Selling Embargoes for $6m each](https://www.torn.com/forums.php?p=threads&f=10&t=16233493&b=0&a=0)
+- [Torn Stats - Car Dealership](https://www.tornstats.com/companies/4)
+- [Torn Stats - Property Broker](https://www.tornstats.com/companies/20)
