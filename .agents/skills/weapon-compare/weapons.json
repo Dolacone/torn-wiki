@@ -1,0 +1,13 @@
+{
+  "_source": "https://wiki.torn.com/wiki/Weapon#Stats via torn-fight-simulator/reference/weapons.md, fetched 2026-08-12",
+  "weapons": {
+    "ArmaLite M-15A4": {"category": "Rifle", "clip": 15, "rate_of_fire": [3, 5]},
+    "Enfield SA-80": {"category": "Rifle", "clip": 30, "rate_of_fire": [2, 5]},
+    "Tavor TAR-21": {"category": "Rifle", "clip": 30, "rate_of_fire": [4, 8]},
+    "SIG 552": {"category": "Rifle", "clip": 30, "rate_of_fire": [4, 7]},
+    "Steyr AUG": {"category": "Rifle", "clip": 30, "rate_of_fire": [5, 8]},
+    "BT MP9": {"category": "SMG", "clip": 30, "rate_of_fire": [2, 25]},
+    "Qsz-92": {"category": "Pistol", "clip": 15, "rate_of_fire": [2, 12]},
+    "Cobra Derringer": {"category": "Pistol", "clip": 2, "rate_of_fire": [1, 2]}
+  }
+}
