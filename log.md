@@ -80,3 +80,11 @@ Append-only chronological record of all Ingest operations.
 - 在 [[income-trading]] 的 Oil Rig 補上 1★-10★ special 表與每日 JP = 星級。
 - 新增 10★ 收益試算：Fat Cat 扣 $1b 機會成本後 $1.635m/day，Oil Mogul $0.903m/day，淨合計 $2.538m/day。
 - 補上 $2b 本金、5★ 公司、Embargo 出售的比較，以及來源連結。
+
+## [2026-11-03] ingest | Torn Wiki Books list
+
+- [[books-catalog]] 改為收錄 Torn Wiki 全部 44 本書（ID 744-787），每本加上 ID 與 Mission Credits 價格區間。
+- 新增分類：讀完結算功能類、消耗品增益類、自然恢復增益類、公司與工作類；戰鬥類補上 4 本被動 +100% 書籍。
+- 書名改為官方名稱：Gym Grunting - Shouting To Success、Self Defense In The Workplace、Speed 3 - The Rejected Script、The Hamburglar's Guide To Crime、Medical Degree Schmedical Degree。
+- [[employee-effectiveness]] 的 total 組成表補上 book 欄位：Brown-nosing The Boss 期間 +50，持續 31 天。
+- [[employee-effectiveness]] 的 management 段落改為不只跟 working_stats 有關：同 working_stats 對應不同值，book 計入 x（1 筆資料）。

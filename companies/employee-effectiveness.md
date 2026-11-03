@@ -15,6 +15,7 @@ total = working_stats + settled_in + book + merits + director_education
 |---|---|
 | working_stats | 依職位需求計算，見下節 |
 | settled_in | 每連續 24 小時 +1，上限 +10 |
+| book | 員工本人閱讀 Brown-nosing The Boss 期間 +50，持續 31 天，見 [[books-catalog]] |
 | merits | Employee Effectiveness merits 每點 +1 |
 | director_education | Director 修完全部課程時為 +12 |
 | management | working_stats 低於 100 時的補償，見下節 |
@@ -51,7 +52,15 @@ eff(stat, req) = FLOOR(MIN(45, 45 / req * stat * 1.2) + MAX(0, 5 * LOG2(stat * 1
 
 ## Management
 
-只跟 working_stats 有關。working_stats 越低，management 越高，上限 30，working_stats 100 以上為 0。公式未知。
+working_stats 越低，management 越高，上限 30，working_stats 100 以上為 0。公式未知，而且不只跟 working_stats 有關。
+
+2026-11-03 以同一家 Nightclub 82 筆不同的非 Manager 員工效能明細比對：
+
+- 同一個 working_stats 會對應不同的 management，例如 63 對應 13-16、82 對應 6-7、94 對應 2-4。
+  - 推測與當天 Manager 的狀態有關，未驗證。
+- book 會計入：一名 working_stats 90、book +50 的員工 management 為 0，同 working_stats 無 book 的員工為 5。
+  - x 改用 100 - (working_stats + book) 後與此吻合，目前只有這 1 筆資料。
+- 最佳候選 ceil(0.54 * x^0.885) 完全吻合 60/82 筆（x 含 book 時 61/82）。
 
 觀察到的資料點：
 
