@@ -17,7 +17,7 @@
 
 ## 快樂值超限機制 (Over-capping Mechanics)
 
-- Candy (糖果)：如 Lollipops，可將快樂值推向房產上限。
+- Candy (糖果)：如 Lollipops，可將快樂值推高到超過房產上限。
 - Ecstasy (快樂丸)：直接將當前的快樂值翻倍（Double），這通常用於 E-jump 或短時間的高強度訓練。
 
 ## 參考資料 (References)

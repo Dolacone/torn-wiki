@@ -88,3 +88,11 @@ Append-only chronological record of all Ingest operations.
 - 書名改為官方名稱：Gym Grunting - Shouting To Success、Self Defense In The Workplace、Speed 3 - The Rejected Script、The Hamburglar's Guide To Crime、Medical Degree Schmedical Degree。
 - [[employee-effectiveness]] 的 total 組成表補上 book 欄位：Brown-nosing The Boss 期間 +50，持續 31 天。
 - [[employee-effectiveness]] 的 management 段落改為不只跟 working_stats 有關：同 working_stats 對應不同值，book 計入 x（1 筆資料）。
+
+## [2026-11-05] ingest | Torn Wiki World Diabetes Day
+
+- 新增 [[world-diabetes-day]]：2026-11-13 自選 10:00-16:00 TCT 開始，持續 48 小時，Candy 提供 3x Happy。
+- [[world-diabetes-day]] 加入 3 跳排程 (7 Xanax、3 Ecstasy、4 次 Refill)。
+- 新增 [[gym-formula]]：Vladar 試算表的 gym 公式、50M 以上 stat 調整式與各 stat 常數。
+- 依 [[gym-formula]] 修正 [[happy-jumping]] 的 Happy 翻倍收益與 [[training-strategy]] 的 50M 說明。
+- 修正 [[happy-jumping]] 的「指數成長」用詞、[[training-strategy]] 的 gym dots 單位、[[ignorance-is-bliss]] 的 Refill 花費 (30 Points)、[[happy-mechanics]] 的 Candy 超過上限說明。

@@ -1,10 +1,10 @@
 # 快跳訓練指南 (Happy Jumping Strategy)
 
-Happy Jumping 是透過道具將 Happy 提升至超越 Property 上限的行為，藉此利用屬性收益公式中的指數成長特性，在單次訓練中獲得極大化的屬性成長。
+Happy Jumping 是透過道具將 Happy 提升至超越 Property 上限的行為，藉此提高每單位 Energy 的屬性收益，在單次訓練中獲得極大化的屬性成長。
 
 ## 核心機制與重置時間 (Core Mechanics & Reset Intervals)
 
-- 指數收益：Happy 越高，每單位 Energy 獲得的屬性越多。翻倍 Happy 獲得的屬性成長會遠超過兩倍。
+- Happy 收益：Happy 越高，每單位 Energy 獲得的屬性越多。Happy 翻倍時收益最多約 2 倍，stat 越高倍數越小，見 [[gym-formula]]。
 - 15 分鐘重置 (The 15-minute Reset)：
     - Happy 會在每小時的 XX:00, XX:15, XX:30, XX:45 準時重置回 Property 上限。
     - 戰術：必須在重置剛過後立即開始使用道具，確保有完整的 15 分鐘進行操作與訓練。

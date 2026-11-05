@@ -4,8 +4,8 @@
 
 ## 基礎核心觀念 (Core Concepts)
 
-- 屬性收益 (Gains)：屬性越高，單次訓練獲得的數值越多（採用 Exponential Gains 公式），已無舊版的 50m Soft Cap 限制。
-- 健身房 (Gyms)：解鎖新健身房是首要任務。普通健身房最高加成為 7.3%，而專項健身房 (Specialized Gyms) 則提供更高的 8.0% 加成。
+- 屬性收益 (Gains)：屬性越高，單次訓練獲得的數值越多。50M 硬上限已取消，超過 50M 的部分改為遞減成長，見 [[gym-formula]]。
+- 健身房 (Gyms)：解鎖新健身房是首要任務。普通健身房最高加成為 7.3 dots，而專項健身房 (Specialized Gyms) 則提供更高的 8.0 dots 加成。
 - 比例重要性：在 Torn 中，屬性的「比例」往往比「總額」更能決定戰鬥勝負，詳見 [[battlestats/training-ratios]] 與 [[battlestats/combat-formulas]]。
 
 ## 訓練流派對比 (Training Archetypes)
@@ -20,11 +20,11 @@
 - 分類：
     - Defense Whore：極高 Defense。能讓對方的傷害降至 0。在傷害為 0 的情況下，對方的 Weapon Bonus (如致傷加成) 將不會生效，這對 Defense Whore 非常有利。
     - Dexterity Whore：極高 Dexterity。結合 Smoke Tactics 讓對方完全無法命中，相關臨時戰術道具見 [[attacking/temporary-tactics]]。
-- 優點：在特定比例下幾乎無敵，能進駐 8.0% 增益的專項健身房。
+- 優點：在特定比例下幾乎無敵，能進駐 8.0 dots 增益的專項健身房。
 
 ## 健身房與專項加成 (Gyms & Specialized Gains)
 
-- Specialized Gyms：提供 8.0% 的特定屬性訓練增益，相較於普通健身房最高 7.3%，效益顯著。
+- Specialized Gyms：提供 8.0 dots 的特定屬性訓練增益，相較於普通健身房最高 7.3 dots，效益顯著。
 - 建議優先解鎖：根據你選擇的 Whore 路線，優先解鎖對應的專項健身房。
 
 ## 訓練里程碑 (Training Milestones)

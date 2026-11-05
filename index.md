@@ -18,6 +18,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 
 ## battlestats
 - [combat-formulas](battlestats/combat-formulas.md) — 戰力計算公式與各 stat 的實際影響
+- [gym-formula](battlestats/gym-formula.md) — Vladar gym gain 公式、50M 以上 stat 調整與各 stat 常數
 - [happy-jumping](battlestats/happy-jumping.md) — 快跳訓練的機制、條件與效率分析
 - [se-cap-analysis](battlestats/se-cap-analysis.md) — Stat Enhancer 效益上限與使用建議
 - [training-ratios](battlestats/training-ratios.md) — 各 stat 訓練比例的分配原則
@@ -56,6 +57,7 @@ All wiki pages with one-line summaries. Updated during Ingest when new pages are
 - [elimination](events/elimination.md) — 淘汰賽活動的參與方式、機制與新手策略
 - [museum-day](events/museum-day.md) — 博物館日的操作流程與獎勵說明
 - [trick-or-treat](events/trick-or-treat.md) — 萬聖節 Trick or Treat 活動的籃子機制、升級順序、世界 Boss 與回本分析
+- [world-diabetes-day](events/world-diabetes-day.md) — 糖果節活動時間與 3 跳排程
 
 ## factions
 - [overview](factions/overview.md) — 派系系統的完整機制與加入建議
